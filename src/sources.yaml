@@ -1,0 +1,111 @@
+sources:
+  - name: thepressproject
+    base_url: https://thepressproject.gr
+    rss:
+      - https://thepressproject.gr/feed/
+    search_paths:
+      - /?s={query}
+
+  - name: euro2day
+    base_url: https://www.euro2day.gr
+    rss:
+      - https://www.euro2day.gr/ListRSS.aspx
+    search_paths:
+      - /search.aspx?search={query}
+
+  - name: skai
+    base_url: https://www.skai.gr
+    rss:
+      - https://www.skai.gr/news/rss
+    search_paths:
+      - /?s={query}
+
+  - name: newsbeast
+    base_url: https://www.newsbeast.gr
+    rss:
+      - https://www.newsbeast.gr/feed
+      - https://www.newsbeast.gr/greece/feed
+      - https://www.newsbeast.gr/politiki/feed
+      - https://www.newsbeast.gr/society/feed
+      - https://www.newsbeast.gr/financial/feed
+    search_paths:
+      - /?s={query}
+
+  - name: newsgr
+    base_url: https://www.news.gr
+    rss:
+      - https://www.news.gr/rss-feed
+    search_paths:
+      - /?s={query}
+      - /search/{query}
+
+  - name: protothema
+    base_url: https://www.protothema.gr
+    rss:
+      - https://www.protothema.gr/rss
+      - https://www.protothema.gr/rss.xml
+      - https://www.protothema.gr/rsscategory/
+    search_paths:
+      - /?s={query}
+
+  - name: in
+    base_url: https://www.in.gr
+    rss:
+      - https://www.in.gr/feed/
+    search_paths:
+      - /?s={query}
+
+  - name: tanea
+    base_url: https://www.tanea.gr
+    rss:
+      - https://www.tanea.gr/feed/
+    search_paths:
+      - /?s={query}
+
+  - name: tovima
+    base_url: https://www.tovima.gr
+    rss:
+      - https://www.tovima.gr/feed/
+    search_paths:
+      - /?s={query}
+
+  - name: naftemporiki
+    base_url: https://www.naftemporiki.gr
+    rss:
+      - https://www.naftemporiki.gr/feed/
+    search_paths:
+      - /?s={query}
+
+  - name: enikos
+    base_url: https://www.enikos.gr
+    rss:
+      - https://www.enikos.gr/feed/
+    search_paths:
+      - /?s={query}
+
+  - name: newsit
+    base_url: https://www.newsit.gr
+    rss:
+      - https://www.newsit.gr/feed/
+    search_paths:
+      - /?s={query}
+
+  - name: zougla
+    base_url: https://www.zougla.gr
+    rss:
+      - https://www.zougla.gr/feed/
+    search_paths:
+      - /?s={query}
+
+  - name: debater
+    base_url: https://www.debater.gr
+    rss: []
+    search_paths:
+      - /?s={query}
+
+  - name: geopolitico
+    base_url: https://www.geopolitico.gr
+    rss: []
+    search_paths:
+      - /?s={query}
+      - /archive
