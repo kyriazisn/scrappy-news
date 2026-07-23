@@ -1,5 +1,6 @@
 async function loadNews() {
   const res = await fetch('./articles.json');
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const data = await res.json();
 
   const meta = document.getElementById('meta');
@@ -15,7 +16,7 @@ async function loadNews() {
       li.className = 'news-item';
       li.innerHTML = `
         <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
-        <div class="meta">${item.source} ${item.published ? '• ' + item.published : ''}</div>
+        <div class="meta">${item.source}${item.published ? ' • ' + item.published : ''}</div>
       `;
       list.appendChild(li);
     }
