@@ -1,5 +1,5 @@
 async function loadNews() {
-  const res = await fetch('../data/articles.json');
+  const res = await fetch('./articles.json');
   const data = await res.json();
 
   const meta = document.getElementById('meta');
