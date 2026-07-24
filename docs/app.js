@@ -93,7 +93,7 @@ async function init() {
     countEl.textContent = "0";
     listEl.innerHTML = `<li class="empty-state">Δεν ήταν δυνατή η φόρτωση των άρθρων.</li>`;
   }
-}
+} 
 
 searchEl.addEventListener("input", applyFilter);
 init();
