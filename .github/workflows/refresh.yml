@@ -29,7 +29,7 @@ jobs:
       - name: Refresh JSON
         run: |
           mkdir -p docs
-          python news_monitor.py --sources sources.yaml --out docs/articles.json
+          python src/news_monitor.py --sources src/sources.yaml --out docs/articles.json
 
       - name: Commit updated data
         run: |
