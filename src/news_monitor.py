@@ -4,6 +4,7 @@ import json
 import time
 from datetime import datetime, timezone
 from urllib.parse import quote_plus, urljoin
+from email.utils import parsedate_to_datetime
 
 import requests
 import yaml
@@ -96,6 +97,28 @@ def collect_for_source(src, keywords):
         time.sleep(0.5)
     return rows
 
+def parse_published(value):
+    value = (value or "").strip()
+    if not value:
+        return None
+
+    try:
+        return parsedate_to_datetime(value)
+    except Exception:
+        pass
+
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except Exception:
+        return None
+
+
+def sort_key(article):
+    dt = parse_published(article.get("published", ""))
+    if dt is None:
+        return (1, 0, article["title"].lower())
+    return (0, -dt.timestamp(), article["title"].lower())
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--sources", default="src/sources.yaml")
@@ -110,8 +133,8 @@ def main():
         articles.extend(collect_for_source(src, args.keywords))
 
     articles = dedupe(articles)
-    articles.sort(key=lambda x: (x.get("published", ""), x["title"]), reverse=True)
-
+    articles.sort(key=sort_key)
+    
     payload = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "count": len(articles),
