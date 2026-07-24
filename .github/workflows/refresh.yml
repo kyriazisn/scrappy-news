@@ -31,7 +31,7 @@ jobs:
           mkdir -p docs
           python src/news_monitor.py --sources src/sources.yaml --out docs/articles.json
 
-      - name: Debug output
+      - name: Debug outputs
         run: |
           echo "=== docs/articles.json ==="
           sed -n '1,80p' docs/articles.json || true
