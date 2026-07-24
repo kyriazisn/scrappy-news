@@ -28,7 +28,7 @@ jobs:
 
       - name: Refresh JSON
         run: |
-          mkdir -p docsgit s
+          mkdir -p docs
           python src/news_monitor.py --sources src/sources.yaml --out docs/articles.json
 
       - name: Debug output
