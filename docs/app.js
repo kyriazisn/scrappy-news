@@ -1,40 +1,95 @@
-async function loadNews() {
-  const res = await fetch('./articles.json');
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const data = await res.json();
+const listEl = document.getElementById("news-list");
+const searchEl = document.getElementById("search");
+const metaEl = document.getElementById("meta");
+const updatedEl = document.getElementById("updated-at");
+const countEl = document.getElementById("article-count");
 
-  const meta = document.getElementById('meta');
-  meta.textContent = `Τελευταία ενημέρωση: ${data.updated_at} | Άρθρα: ${data.count}`;
+let allArticles = [];
 
-  const list = document.getElementById('news-list');
-  const search = document.getElementById('search');
-
-  function render(items) {
-    list.innerHTML = '';
-    for (const item of items) {
-      const li = document.createElement('li');
-      li.className = 'news-item';
-      li.innerHTML = `
-        <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
-        <div class="meta">${item.source}${item.published ? ' • ' + item.published : ''}</div>
-      `;
-      list.appendChild(li);
-    }
-  }
-
-  render(data.articles);
-
-  search.addEventListener('input', () => {
-    const q = search.value.toLowerCase().trim();
-    const filtered = data.articles.filter(x =>
-      x.title.toLowerCase().includes(q) ||
-      x.source.toLowerCase().includes(q)
-    );
-    render(filtered);
-  });
+function formatDate(value) {
+  if (!value) return "Χωρίς ημερομηνία";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  return new Intl.DateTimeFormat("el-GR", {
+    dateStyle: "medium",
+    timeStyle: "short",
+  }).format(date);
 }
 
-loadNews().catch(err => {
-  document.getElementById('meta').textContent = 'Σφάλμα φόρτωσης δεδομένων';
-  console.error(err);
-});
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
+}
+
+function render(items) {
+  countEl.textContent = allArticles.length;
+  metaEl.textContent = `Εμφανίζονται ${items.length} από ${allArticles.length} άρθρα`;
+
+  if (!items.length) {
+    listEl.innerHTML = `<li class="empty-state">Δεν βρέθηκαν άρθρα για αυτό το φίλτρο.</li>`;
+    return;
+  }
+
+  listEl.innerHTML = items.map(article => {
+    const title = escapeHtml(article.title || "Χωρίς τίτλο");
+    const source = escapeHtml(article.source || "Άγνωστη πηγή");
+    const keyword = escapeHtml(article.keyword || "-");
+    const published = escapeHtml(formatDate(article.published));
+    const url = article.url || "#";
+    const safeUrl = /^https?:\/\//i.test(url) ? url : "#";
+    const displayUrl = escapeHtml(safeUrl === "#" ? "Μη διαθέσιμο link" : url);
+
+    return `
+      <li class="news-item">
+        <a class="news-link" href="${safeUrl}" target="_blank" rel="noopener noreferrer">
+          <div class="news-chips">
+            <span class="chip source">${source}</span>
+            <span class="chip keyword">${keyword}</span>
+            <span class="chip">${published}</span>
+          </div>
+          <h3 class="news-title">${title}</h3>
+          <div class="news-url">${displayUrl}</div>
+        </a>
+      </li>
+    `;
+  }).join("");
+}
+
+function applyFilter() {
+  const q = searchEl.value.trim().toLowerCase();
+  if (!q) {
+    render(allArticles);
+    return;
+  }
+
+  const filtered = allArticles.filter(article => {
+    return [article.title, article.source, article.keyword]
+      .filter(Boolean)
+      .some(value => value.toLowerCase().includes(q));
+  });
+
+  render(filtered);
+}
+
+async function init() {
+  try {
+    const res = await fetch("./articles.json", { cache: "no-store" });
+    const data = await res.json();
+
+    allArticles = Array.isArray(data.articles) ? data.articles : [];
+    updatedEl.textContent = formatDate(data.updated_at);
+    countEl.textContent = String(allArticles.length);
+
+    render(allArticles);
+  } catch (err) {
+    metaEl.textContent = "Σφάλμα φόρτωσης δεδομένων.";
+    listEl.innerHTML = `<li class="empty-state">Δεν ήταν δυνατή η φόρτωση των άρθρων.</li>`;
+  }
+}
+
+searchEl.addEventListener("input", applyFilter);
+init();

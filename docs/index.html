@@ -4,18 +4,37 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Marfin News Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
   <main class="container">
     <header class="hero">
-      <h1>Marfin News Tracker</h1>
-      <p>Συγκεντρωμένες ειδήσεις από ελληνικά RSS feeds και news sources.</p>
-      <div id="meta"></div>
+      <div class="hero-copy">
+        <p class="eyebrow">Greek news monitoring</p>
+        <h1>Marfin News Tracker</h1>
+        <p class="hero-text">Συγκεντρωμένες ειδήσεις από ελληνικά RSS feeds και news sources, σε πιο καθαρή και εύχρηστη προβολή.</p>
+      </div>
+
+      <div class="hero-stats">
+        <div class="stat-card">
+          <span class="stat-label">Τελευταία ενημέρωση</span>
+          <strong id="updated-at">—</strong>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Σύνολο άρθρων</span>
+          <strong id="article-count">0</strong>
+        </div>
+      </div>
     </header>
 
     <section class="toolbar">
-      <input id="search" type="search" placeholder="Φίλτρο σε τίτλους ή source">
+      <div class="search-wrap">
+        <input id="search" type="search" placeholder="Φίλτρο σε τίτλο, source ή keyword">
+      </div>
+      <div id="meta" class="toolbar-meta"></div>
     </section>
 
     <section>
