@@ -51,7 +51,6 @@
     {
       "source": "newsit",
       "keyword": "Marfin",
-<<<<<<< HEAD
       "title": "Στην Ευελπίδων για να απολογηθούν οι δύο 42χρονοι συλληφθέντες για την εμπρηστική επίθεση στη Marfin",
       "url": "https://www.newsit.gr/ellada/marfin-stin-eyelpidon-gia-na-apologithoun-oi-dyo-42xronoi-syllifthentes-gia-tin-empristiki-epithesi/4728108/",
       "published": ""
@@ -1943,9 +1942,6 @@
       "source": "newsit",
       "keyword": "Marfin",
       "title": "Marfin: «Ήταν κάτι που δεν είχα ξαναδεί σε πορεία, για αυτό τράβηξα τις φωτογραφίες» λέει ο δημοσιογράφος που «έπιασε» τους «5»",
-=======
-      "title": "11",
->>>>>>> 3642312 (fix: sort articles by parsed publish date)
       "url": "https://www.newsit.gr/ellada/marfin-itan-kati-pou-den-eixa-ksanadei-se-poreia-gia-ayto-traviksa-tis-fotografies-leei-o-dimosiografos-pou-epiase-tous-5/4729373/",
       "published": ""
     },
