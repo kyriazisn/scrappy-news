@@ -77,16 +77,20 @@ function applyFilter() {
 
 async function init() {
   try {
-    const res = await fetch("./articles.json", { cache: "no-store" });
+    const res = await fetch(`./articles.json?v=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
     const data = await res.json();
+    const articles = Array.isArray(data.articles) ? data.articles : [];
 
-    allArticles = Array.isArray(data.articles) ? data.articles : [];
-    updatedEl.textContent = formatDate(data.updated_at);
-    countEl.textContent = String(allArticles.length);
+    updatedEl.textContent = data.updated_at ? formatDate(data.updated_at) : "—";
+    countEl.textContent = String(articles.length);
 
-    render(allArticles);
+    render(articles);
   } catch (err) {
-    metaEl.textContent = "Σφάλμα φόρτωσης δεδομένων.";
+    console.error(err);
+    updatedEl.textContent = "—";
+    countEl.textContent = "0";
     listEl.innerHTML = `<li class="empty-state">Δεν ήταν δυνατή η φόρτωση των άρθρων.</li>`;
   }
 }

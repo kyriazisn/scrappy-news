@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "updated_at": "2026-07-24T11:24:05.629234+00:00",
-=======
   "updated_at": "2026-07-24T12:08:04.894776+00:00",
->>>>>>> 3642312 (fix: sort articles by parsed publish date)
   "count": 364,
   "keywords": [
     "Marfin",
