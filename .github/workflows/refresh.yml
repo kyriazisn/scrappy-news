@@ -28,8 +28,15 @@ jobs:
 
       - name: Refresh JSON
         run: |
-          mkdir -p docs
+          mkdir -p docsgit s
           python src/news_monitor.py --sources src/sources.yaml --out docs/articles.json
+
+      - name: Debug output
+        run: |
+          echo "=== docs/articles.json ==="
+          sed -n '1,80p' docs/articles.json || true
+          echo "=== sources ==="
+          sed -n '1,120p' src/sources.yaml || true
 
       - name: Commit updated data
         run: |
