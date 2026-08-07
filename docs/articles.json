@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T11:30:03.258918+00:00",
-  "count": 387,
+  "updated_at": "2026-08-07T13:57:02.912848+00:00",
+  "count": 385,
   "keywords": [
     "Marfin",
     "Μαρφίν",
@@ -42,13 +42,6 @@
       "keyword": "Marfin",
       "title": "07.08.2026, 11:59 Προθεσμία για να απολογηθεί έλαβε η 46χρονη - Ο ρόλος «κλειδί» στην επίθεση και τα ευρήματα της ΕΛ.ΑΣ. Έλαβε προθεσμία για την Τρίτη 11 Αυγούστου η 46χρονη - Το βιντεοληπτικό υλικό, τα εργαλεία Τεχνητής Νοημοσύνης και ο υποστηρικτικός ρόλος δίπλα στον άνθρωπο που έσπασε την τζαμαρία Newsroom",
       "url": "https://www.tovima.gr/2026/08/07/society/ypothesi-marfin-stin-anakritria-i-46xroni-to-xroniko-tis-ekdosis-ta-stoixeia-tis-el-as/",
-      "published": ""
-    },
-    {
-      "source": "newsbeast",
-      "keyword": "Marfin",
-      "title": "10",
-      "url": "https://www.newsbeast.gr/society/arthro/13281305/ebrismos-tis-marfin-prothesmia-mechri-tin-triti-elave-i-46chroni-katigoroumeni-gia-tin-apologia-tis#post-13281305-comments",
       "published": ""
     },
     {
@@ -164,13 +157,6 @@
       "published": ""
     },
     {
-      "source": "protothema",
-      "keyword": "Marfin",
-      "title": "156",
-      "url": "https://www.protothema.gr/greece/article/1861906/stin-eisaggelia-apo-ti-gada-odigeitai-i-46hroni-pou-katigoreitai-gia-tin-epithesi-sti-marfin-deite-video/",
-      "published": ""
-    },
-    {
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "16 χρόνια από την τραγωδία της Marfin – Ν. Δένδιας: Δεν ξεχνάμε τις 4 ζωές που χάθηκαν άδικα",
@@ -255,6 +241,20 @@
       "published": ""
     },
     {
+      "source": "newsbeast",
+      "keyword": "Marfin",
+      "title": "20",
+      "url": "https://www.newsbeast.gr/society/arthro/13281305/ebrismos-tis-marfin-prothesmia-mechri-tin-triti-elave-i-46chroni-katigoroumeni-gia-tin-apologia-tis#post-13281305-comments",
+      "published": ""
+    },
+    {
+      "source": "protothema",
+      "keyword": "Marfin",
+      "title": "213",
+      "url": "https://www.protothema.gr/greece/article/1861906/stin-eisaggelia-apo-ti-gada-odigeitai-i-46hroni-pou-katigoreitai-gia-tin-epithesi-sti-marfin-deite-video/",
+      "published": ""
+    },
+    {
       "source": "newsit",
       "keyword": "Marfin",
       "title": "22",
@@ -332,13 +332,6 @@
       "published": ""
     },
     {
-      "source": "newsbeast",
-      "keyword": "Marfin",
-      "title": "4",
-      "url": "https://www.newsbeast.gr/society/arthro/13281051/enopion-ton-anakritikon-archon-i-46chroni-pou-katigoreitai-gia-ton-foniko-ebrismo-sti-marfin#post-13281051-comments",
-      "published": ""
-    },
-    {
       "source": "zougla",
       "keyword": "Marfin",
       "title": "4",
@@ -376,7 +369,7 @@
     {
       "source": "newsit",
       "keyword": "Marfin",
-      "title": "75",
+      "title": "82",
       "url": "https://www.newsit.gr/ellada/marfin-i-46xroni-pire-prothesmia-gia-na-apologithei-tin-triti-einai-athoa-symmeteixe-sti-diadilosi-opos-kai-100-000-atoma/4745966/",
       "published": ""
     },
@@ -626,6 +619,13 @@
       "published": ""
     },
     {
+      "source": "thepressproject",
+      "keyword": "Marfin",
+      "title": "Marfin: Προθεσμία για να απολογηθεί την Τρίτη έλαβε η 46χρονη – «Είναι αθώα»",
+      "url": "https://thepressproject.gr/marfin-prothesmia-gia-na-apologithei-tin-triti-elave-i-46chroni-einai-athoa/",
+      "published": ""
+    },
+    {
       "source": "zougla",
       "keyword": "Marfin",
       "title": "Marfin: Προθεσμία για να απολογηθεί την Τρίτη πήρε η 46χρονη",
@@ -860,7 +860,7 @@
       "source": "skai",
       "keyword": "Marfin",
       "title": "play",
-      "url": "https://www.skai.gr/news/greece/ypothesi-marfin-sti-gada-i-46xroni-pou-katigoreitai-gia-emploki-sti-foniki-epithesi",
+      "url": "https://www.skai.gr/news/greece/marfin-stin-ellada-ekdidetai-simera-i-46xroni-katigoroumeni-gia-symmetoxi-sti-foniki-epith",
       "published": ""
     },
     {
@@ -1067,6 +1067,20 @@
       "published": ""
     },
     {
+      "source": "skai",
+      "keyword": "Marfin",
+      "title": "Απόψε φτάνει στην Ελλάδα η 46χρονη κατηγορούμενη για συμμετοχή στη φονική επίθεση στη Marfin",
+      "url": "https://www.skai.gr/news/greece/marfin-stin-ellada-ekdidetai-simera-i-46xroni-katigoroumeni-gia-symmetoxi-sti-foniki-epith",
+      "published": ""
+    },
+    {
+      "source": "thepressproject",
+      "keyword": "Marfin",
+      "title": "Αφήστε ένα Σχόλιο στο Marfin: Προθεσμία για να απολογηθεί την Τρίτη έλαβε η 46χρονη – «Είναι αθώα»",
+      "url": "https://thepressproject.gr/marfin-prothesmia-gia-na-apologithei-tin-triti-elave-i-46chroni-einai-athoa/#respond",
+      "published": ""
+    },
+    {
       "source": "thepressproject",
       "keyword": "Marfin",
       "title": "Αφήστε ένα Σχόλιο στο Marfin: Στην Ευελπίδων έφτασαν οι δύο συλληφθέντες για την απολογία τους",
@@ -1176,13 +1190,6 @@
       "keyword": "Μαρφίν",
       "title": "Αφήστε ένα Σχόλιο στο Στέλεχος της ΝΔ κατά Καρυστιανού: «Για το Μάτι και τη Μαρφίν δε λέτε» – «Αισχρή επίθεση προς το πρόσωπό μας», απαντά",
       "url": "https://thepressproject.gr/stelechos-tis-nd-kata-karystianou-gia-to-mati-kai-ti-marfin-de-lete-aischri-epithesi-pros-to-prosopo-mas-apanta/#respond",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Marfin",
-      "title": "Αφήστε ένα Σχόλιο στο Συνελήφθη η 46χρονη που κατηγορείται για τον εμπρησμό στη Marfin",
-      "url": "https://thepressproject.gr/synelifthi-i-46chroni-pou-katigoreitai-gia-ton-ebrismo-sti-marfin/#respond",
       "published": ""
     },
     {
@@ -1795,10 +1802,17 @@
       "published": ""
     },
     {
-      "source": "newsbeast",
+      "source": "naftemporiki",
       "keyword": "Marfin",
-      "title": "Ενώπιον των ανακριτικών αρχών η 46χρονη που κατηγορείται για τον φονικό εμπρησμό στη Marfin",
-      "url": "https://www.newsbeast.gr/society/arthro/13281051/enopion-ton-anakritikon-archon-i-46chroni-pou-katigoreitai-gia-ton-foniko-ebrismo-sti-marfin",
+      "title": "Επέστρεψε στην Ελλάδα η 46χρονη που κατηγορείται για συμμετοχή στον εμπρησμό της Marfin",
+      "url": "https://www.naftemporiki.gr/?s=%CE%95%CF%80%CE%AD%CF%83%CF%84%CF%81%CE%B5%CF%88%CE%B5+%CF%83%CF%84%CE%B7%CE%BD+%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1+%CE%B7+46%CF%87%CF%81%CE%BF%CE%BD%CE%B7+%CF%80%CE%BF%CF%85+%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%B5%CE%AF%CF%84%CE%B1%CE%B9+%CE%B3%CE%B9%CE%B1+%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE+%CF%83%CF%84%CE%BF%CE%BD+%CE%B5%CE%BC%CF%80%CF%81%CE%B7%CF%83%CE%BC%CF%8C+%CF%84%CE%B7%CF%82+Marfin",
+      "published": ""
+    },
+    {
+      "source": "naftemporiki",
+      "keyword": "Marfin",
+      "title": "Επέστρεψε στην Ελλάδα η 46χρονη που κατηγορείται για συμμετοχή στον εμπρησμό της Marfin",
+      "url": "https://www.naftemporiki.gr/society/2147703/epistrefei-stin-ellada-i-46chroni-poy-katigoreitai-gia-symmetochi-ston-emprismo-tis-marfin/",
       "published": ""
     },
     {
@@ -1813,20 +1827,6 @@
       "keyword": "Marfin",
       "title": "Επιστρέφει σήμερα η 46χρονη που κατηγορείται για τον εμπρησμό στη Marfin - Ενώπιον του εισαγγελέα την Παρασκευή",
       "url": "https://www.in.gr/2026/08/06/greece/marfin-epistrefei-simera-i-46xroni-pou-katigoreitai-gia-ton-emprismo-enopion-tou-eisaggelea-tin-paraskeyi/",
-      "published": ""
-    },
-    {
-      "source": "naftemporiki",
-      "keyword": "Marfin",
-      "title": "Επιστρέφει στην Ελλάδα η 46χρονη που κατηγορείται για συμμετοχή στον εμπρησμό της Marfin",
-      "url": "https://www.naftemporiki.gr/?s=%CE%95%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%AD%CF%86%CE%B5%CE%B9+%CF%83%CF%84%CE%B7%CE%BD+%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1+%CE%B7+46%CF%87%CF%81%CE%BF%CE%BD%CE%B7+%CF%80%CE%BF%CF%85+%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%B5%CE%AF%CF%84%CE%B1%CE%B9+%CE%B3%CE%B9%CE%B1+%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE+%CF%83%CF%84%CE%BF%CE%BD+%CE%B5%CE%BC%CF%80%CF%81%CE%B7%CF%83%CE%BC%CF%8C+%CF%84%CE%B7%CF%82+Marfin",
-      "published": ""
-    },
-    {
-      "source": "naftemporiki",
-      "keyword": "Marfin",
-      "title": "Επιστρέφει στην Ελλάδα η 46χρονη που κατηγορείται για συμμετοχή στον εμπρησμό της Marfin",
-      "url": "https://www.naftemporiki.gr/society/2147703/epistrefei-stin-ellada-i-46chroni-poy-katigoreitai-gia-symmetochi-ston-emprismo-tis-marfin/",
       "published": ""
     },
     {
@@ -2411,13 +2411,6 @@
       "published": ""
     },
     {
-      "source": "thepressproject",
-      "keyword": "Marfin",
-      "title": "Συνελήφθη η 46χρονη που κατηγορείται για τον εμπρησμό στη Marfin",
-      "url": "https://thepressproject.gr/synelifthi-i-46chroni-pou-katigoreitai-gia-ton-ebrismo-sti-marfin/",
-      "published": ""
-    },
-    {
       "source": "in",
       "keyword": "Marfin",
       "title": "Συνελήφθη στη Βρετανία η 46χρονη που κατηγορείται για τον εμπρησμό στη Marfin",
@@ -2526,14 +2519,14 @@
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Προθεσμία για την ερχόμενη Τρίτη έλαβε η 46χρονη",
-      "url": "https://www.naftemporiki.gr/society/2147820/ypothesi-marfin-prothesmia-gia-tin-erchomeni-triti-elave-i-46chroni/",
+      "url": "https://www.naftemporiki.gr/?s=%CE%A5%CF%80%CF%8C%CE%B8%CE%B5%CF%83%CE%B7+Marfin%3A+%CE%A0%CF%81%CE%BF%CE%B8%CE%B5%CF%83%CE%BC%CE%AF%CE%B1+%CE%B3%CE%B9%CE%B1+%CF%84%CE%B7%CE%BD+%CE%B5%CF%81%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%B7+%CE%A4%CF%81%CE%AF%CF%84%CE%B7+%CE%AD%CE%BB%CE%B1%CE%B2%CE%B5+%CE%B7+46%CF%87%CF%81%CE%BF%CE%BD%CE%B7",
       "published": ""
     },
     {
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Προθεσμία για την ερχόμενη Τρίτη έλαβε η 46χρονη",
-      "url": "https://www.naftemporiki.gr/?s=%CE%A5%CF%80%CF%8C%CE%B8%CE%B5%CF%83%CE%B7+Marfin%3A+%CE%A0%CF%81%CE%BF%CE%B8%CE%B5%CF%83%CE%BC%CE%AF%CE%B1+%CE%B3%CE%B9%CE%B1+%CF%84%CE%B7%CE%BD+%CE%B5%CF%81%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%B7+%CE%A4%CF%81%CE%AF%CF%84%CE%B7+%CE%AD%CE%BB%CE%B1%CE%B2%CE%B5+%CE%B7+46%CF%87%CF%81%CE%BF%CE%BD%CE%B7",
+      "url": "https://www.naftemporiki.gr/society/2147820/ypothesi-marfin-prothesmia-gia-tin-erchomeni-triti-elave-i-46chroni/",
       "published": ""
     },
     {
@@ -2562,13 +2555,6 @@
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Στη Βρετανία το «ελληνικό FBI» για την έκδοση της 46χρονης",
       "url": "https://www.zougla.gr/greece/ypothesi-marfin-sti-vretania-to-elliniko-fbi-gia-tin-ekdosi-tis-46chronis/",
-      "published": ""
-    },
-    {
-      "source": "skai",
-      "keyword": "Marfin",
-      "title": "Υπόθεση Marfin: Στη ΓΑΔΑ η 46χρονη που κατηγορείται για εμπλοκή στη φονική επίθεση - Το πρωί θα μεταφερθεί στην Εισαγγελία",
-      "url": "https://www.skai.gr/news/greece/ypothesi-marfin-sti-gada-i-46xroni-pou-katigoreitai-gia-emploki-sti-foniki-epithesi",
       "published": ""
     },
     {
