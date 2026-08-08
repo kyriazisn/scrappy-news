@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T13:04:23.534988+00:00",
-  "count": 383,
+  "updated_at": "2026-08-08T13:56:40.814657+00:00",
+  "count": 386,
   "keywords": [
     "Marfin",
     "Μαρφίν",
@@ -285,22 +285,8 @@
     {
       "source": "newsit",
       "keyword": "Marfin",
-      "title": "30",
-      "url": "https://www.newsit.gr/ellada/marfin-den-yparxei-taytopoiisi-leei-o-dikigoros-tis-46xronis-i-ksanthia-kotsida-kai-i-eksetasi-tou-2022-gia-tin-idia-ypothesi/4746583/",
-      "published": ""
-    },
-    {
-      "source": "newsit",
-      "keyword": "Marfin",
       "title": "309",
       "url": "https://www.newsit.gr/ellada/marfin-profylakisteoi-oi-dyo-syllifthentes-epimenoun-oti-den-symmeteixan-sti-foniki-epithesi/4728553/",
-      "published": ""
-    },
-    {
-      "source": "newsbeast",
-      "keyword": "Marfin",
-      "title": "32",
-      "url": "https://www.newsbeast.gr/society/arthro/13282596/egklima-sti-marfin-den-yparchei-taftopoiisi-leei-i-plevra-tis-46chronis-ti-tha-ischyristei-tin-triti-stin-apologia-tis#post-13282596-comments",
       "published": ""
     },
     {
@@ -322,6 +308,20 @@
       "keyword": "Marfin",
       "title": "37",
       "url": "https://www.zougla.gr/page/37/?s=Marfin",
+      "published": ""
+    },
+    {
+      "source": "newsbeast",
+      "keyword": "Marfin",
+      "title": "38",
+      "url": "https://www.newsbeast.gr/society/arthro/13282596/egklima-sti-marfin-den-yparchei-taftopoiisi-leei-i-plevra-tis-46chronis-ti-tha-ischyristei-tin-triti-stin-apologia-tis#post-13282596-comments",
+      "published": ""
+    },
+    {
+      "source": "newsit",
+      "keyword": "Marfin",
+      "title": "38",
+      "url": "https://www.newsit.gr/ellada/marfin-den-yparxei-taytopoiisi-leei-o-dikigoros-tis-46xronis-i-ksanthia-kotsida-kai-i-eksetasi-tou-2022-gia-tin-idia-ypothesi/4746583/",
       "published": ""
     },
     {
@@ -441,6 +441,13 @@
       "keyword": "Marfin",
       "title": "Marfin: «Δεν υπάρχει ταυτοποίηση» λέει ο δικηγόρος της 46χρονης – Η ξανθιά κοτσίδα και η εξέταση του 2022 για την ίδια υπόθεση",
       "url": "https://www.newsit.gr/ellada/marfin-den-yparxei-taytopoiisi-leei-o-dikigoros-tis-46xronis-i-ksanthia-kotsida-kai-i-eksetasi-tou-2022-gia-tin-idia-ypothesi/4746583/",
+      "published": ""
+    },
+    {
+      "source": "skai",
+      "keyword": "Marfin",
+      "title": "Marfin: «Δηλώνει αθώα από την πρώτη στιγμή – Δεν υπάρχει ταυτοποίηση» λέει ο συνήγορος της 46χρονης",
+      "url": "https://www.skai.gr/news/greece/marfin-dilonei-athoa-apo-tin-proti-stigmi-leei-o-synigoros-tis-46xronis",
       "published": ""
     },
     {
@@ -861,6 +868,13 @@
       "keyword": "Marfin",
       "title": "Media Διαβάστε στα «ΝΕΑ» της Δευτέρας: Με ποιες υποθέσεις «δένει» η Marfin – Ανοίγουν φάκελοι Διαβάστε στα «ΝΕΑ» της Δευτέρας:Με ποιες υποθέσεις «δένει» η Marfin – Ανοίγουν φάκελοι Ερευνάται η ανάµειξη της ευρύτερης οµάδας των συλληφθέντων σε βοµβιστικές επιθέσεις και ληστείες Πού επικεντρώνεται τώρα η προσοχή της Αντιτροµοκρατικής που συµπληρώνει κοµµάτι-κοµµάτι όλο το παζλ Ενα λογισµικό – κλειδί στην αποκάλυψη του εγκλήµατος 13/07/2026 00:56",
       "url": "https://www.tanea.gr/2026/07/13/media/diavaste-sta-nea-tis-deyteras-me-poies-ypotheseis-denei-i-marfin-anoigoun-fakeloi/",
+      "published": ""
+    },
+    {
+      "source": "skai",
+      "keyword": "Marfin",
+      "title": "play",
+      "url": "https://www.skai.gr/news/greece/marfin-dilonei-athoa-apo-tin-proti-stigmi-leei-o-synigoros-tis-46xronis",
       "published": ""
     },
     {
@@ -2268,6 +2282,13 @@
       "keyword": "Marfin",
       "title": "Πολύκαρπος Γεωργιάδης για την εμπλοκή του στη Marfin: «Κατονομάζομαι στο e-mail ότι βρισκόμουν στη διαδήλωση, ενώ ήμουν έγκλειστος στον Κορυδαλλό!»",
       "url": "https://thepressproject.gr/polykarpos-georgiadis-gia-tin-ebloki-tou-sti-marfin-katonomazomai-sto-e-mail-oti-vriskomoun-sti-diadilosi-eno-imoun-egkleistos-ston-korydallo/",
+      "published": ""
+    },
+    {
+      "source": "skai",
+      "keyword": "Marfin",
+      "title": "Προθεσμία για την Τρίτη πήρε η 46χρονη που κατηγορείται για εμπλοκή στην επίθεση στη Marfin - Βίντεο",
+      "url": "https://www.skai.gr/news/greece/marfin-stin-eisaggelia-simera-i-46xroni-pou-katigoreitai-gia-emploki-sti-foniki-epithesi",
       "published": ""
     },
     {
