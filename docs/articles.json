@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T05:43:05.477534+00:00",
+  "updated_at": "2026-08-11T07:21:59.083209+00:00",
   "count": 382,
   "keywords": [
     "Marfin",
@@ -311,6 +311,13 @@
       "published": ""
     },
     {
+      "source": "newsbeast",
+      "keyword": "Marfin",
+      "title": "4",
+      "url": "https://www.newsbeast.gr/society/arthro/13286299/ebrismos-marfin-apologeitai-simera-i-46chroni-arneitai-kathe-schesi-me-ti-foniki-epithesi#post-13286299-comments",
+      "published": ""
+    },
+    {
       "source": "zougla",
       "keyword": "Marfin",
       "title": "4",
@@ -476,13 +483,6 @@
       "keyword": "Marfin",
       "title": "Marfin: Απολογείται η 46χρονη – Δηλώνει αθώα και αμφισβητεί την ταυτοποίησή της",
       "url": "https://www.enikos.gr/society/marfin-apologeitai-i-46chroni-dilonei-athoa-kai-amfisvitei-tin-taftopoiisi-tis/2627344/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Marfin: Απολογείται σήμερα η 46χρονη αρνούμενη κάθε σχέση με τη φονική επίθεση",
-      "url": "https://www.tanea.gr/2026/08/11/greece/marfin-apologeitai-simera-i-46xroni-arnoumeni-kathe-sxesi-me-ti-foniki-epithesi/",
       "published": ""
     },
     {
@@ -2222,13 +2222,6 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "υπόθεση Marfin",
-      "title": "Παραιτήθηκε το δημόσιο από τις αναιρέσεις για την υπόθεση Marfin",
-      "url": "https://www.news.gr/ellada/article/2245490/paretithike-to-dimosio-apo-tis-aneresis-gia-tin-ipothesi-marfin.html",
-      "published": ""
-    },
-    {
       "source": "thepressproject",
       "keyword": "Marfin",
       "title": "Περηφανεύεται ο Μαρινάκης για τις συλλήψεις φερόμενων δραστών της Marfin: «Η πολιτεία έκανε πράξη τη δέσμευσή της»",
@@ -2526,14 +2519,21 @@
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Σήμερα απολογείται η 46χρονη που κατηγορείται για συμμετοχή στον εμπρησμό της τράπεζας – Τι υποστηρίζει",
-      "url": "https://www.naftemporiki.gr/society/2148950/ypothesi-marfin-simera-apologeitai-i-46chroni-poy-katigoreitai-gia-symmetochi-ston-emprismo-tis-trapezas-ti-ypostirizei/",
+      "url": "https://www.naftemporiki.gr/?s=%CE%A5%CF%80%CF%8C%CE%B8%CE%B5%CF%83%CE%B7+Marfin%3A+%CE%A3%CE%AE%CE%BC%CE%B5%CF%81%CE%B1+%CE%B1%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B5%CE%AF%CF%84%CE%B1%CE%B9+%CE%B7+46%CF%87%CF%81%CE%BF%CE%BD%CE%B7+%CF%80%CE%BF%CF%85+%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%B5%CE%AF%CF%84%CE%B1%CE%B9+%CE%B3%CE%B9%CE%B1+%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE+%CF%83%CF%84%CE%BF%CE%BD+%CE%B5%CE%BC%CF%80%CF%81%CE%B7%CF%83%CE%BC%CF%8C+%CF%84%CE%B7%CF%82+%CF%84%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1%CF%82+%E2%80%93+%CE%A4%CE%B9+%CF%85%CF%80%CE%BF%CF%83%CF%84%CE%B7%CF%81%CE%AF%CE%B6%CE%B5%CE%B9",
       "published": ""
     },
     {
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Σήμερα απολογείται η 46χρονη που κατηγορείται για συμμετοχή στον εμπρησμό της τράπεζας – Τι υποστηρίζει",
-      "url": "https://www.naftemporiki.gr/?s=%CE%A5%CF%80%CF%8C%CE%B8%CE%B5%CF%83%CE%B7+Marfin%3A+%CE%A3%CE%AE%CE%BC%CE%B5%CF%81%CE%B1+%CE%B1%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B5%CE%AF%CF%84%CE%B1%CE%B9+%CE%B7+46%CF%87%CF%81%CE%BF%CE%BD%CE%B7+%CF%80%CE%BF%CF%85+%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%B5%CE%AF%CF%84%CE%B1%CE%B9+%CE%B3%CE%B9%CE%B1+%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE+%CF%83%CF%84%CE%BF%CE%BD+%CE%B5%CE%BC%CF%80%CF%81%CE%B7%CF%83%CE%BC%CF%8C+%CF%84%CE%B7%CF%82+%CF%84%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1%CF%82+%E2%80%93+%CE%A4%CE%B9+%CF%85%CF%80%CE%BF%CF%83%CF%84%CE%B7%CF%81%CE%AF%CE%B6%CE%B5%CE%B9",
+      "url": "https://www.naftemporiki.gr/society/2148950/ypothesi-marfin-simera-apologeitai-i-46chroni-poy-katigoreitai-gia-symmetochi-ston-emprismo-tis-trapezas-ti-ypostirizei/",
+      "published": ""
+    },
+    {
+      "source": "skai",
+      "keyword": "υπόθεση Marfin",
+      "title": "Υπόθεση Marfin: Σήμερα η απολογία της 46χρονης – Τι υποστηρίζει για την ταυτοποίησή της",
+      "url": "https://www.skai.gr/news/greece/ypothesi-marfin-simera-i-apologia-tis-46xronis-ti-ypostirizei-gia-tin-taytopoiisi-tis",
       "published": ""
     },
     {
