@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T10:09:02.392562+00:00",
-  "count": 382,
+  "updated_at": "2026-08-11T11:28:23.837026+00:00",
+  "count": 381,
   "keywords": [
     "Marfin",
     "Μαρφίν",
@@ -248,13 +248,6 @@
       "published": ""
     },
     {
-      "source": "protothema",
-      "keyword": "Marfin",
-      "title": "27",
-      "url": "https://www.protothema.gr/greece/article/1863423/video-stin-euelpidon-i-46hroni-katigoroumeni-gia-ton-ebrismo-stin-marfin-simera-i-apologia-tis/",
-      "published": ""
-    },
-    {
       "source": "thepressproject",
       "keyword": "Marfin",
       "title": "3",
@@ -343,6 +336,13 @@
       "keyword": "Marfin",
       "title": "52",
       "url": "https://www.newsit.gr/ellada/marfin-binteo-ntokoumento-apo-tin-stigmi-tis-empristikis-epithesis-oi-fotografies-ton-diakopon-pou-odigisan-se-syllipseis/4730222/",
+      "published": ""
+    },
+    {
+      "source": "newsit",
+      "keyword": "Marfin",
+      "title": "7",
+      "url": "https://www.newsit.gr/ellada/marfin-stin-anakritria-i-46xroni-pou-katigoreitai-gia-symmetoxi-ston-foniko-emprismo-tou-2010/4748579/",
       "published": ""
     },
     {
@@ -2222,6 +2222,13 @@
       "published": ""
     },
     {
+      "source": "newsgr",
+      "keyword": "υπόθεση Marfin",
+      "title": "Παραιτήθηκε το δημόσιο από τις αναιρέσεις για την υπόθεση Marfin",
+      "url": "https://www.news.gr/ellada/article/2245490/paretithike-to-dimosio-apo-tis-aneresis-gia-tin-ipothesi-marfin.html",
+      "published": ""
+    },
+    {
       "source": "thepressproject",
       "keyword": "Marfin",
       "title": "Περηφανεύεται ο Μαρινάκης για τις συλλήψεις φερόμενων δραστών της Marfin: «Η πολιτεία έκανε πράξη τη δέσμευσή της»",
@@ -2345,13 +2352,6 @@
       "keyword": "Marfin",
       "title": "Στην Ευελπίδων η 46χρονη κατηγορούμενη για την υπόθεση της Marfin",
       "url": "https://www.in.gr/2026/08/11/greece/stin-eyelpidon-i-46xroni-katigoroumeni-gia-tin-ypothesi-tis-marfin/",
-      "published": ""
-    },
-    {
-      "source": "protothema",
-      "keyword": "Marfin",
-      "title": "Στην Ευελπίδων η 46χρονη κατηγορούμενη για τον εμπρησμό στην Marfin, σήμερα η απολογία της, δείτε βίντεο",
-      "url": "https://www.protothema.gr/greece/article/1863423/video-stin-euelpidon-i-46hroni-katigoroumeni-gia-ton-ebrismo-stin-marfin-simera-i-apologia-tis/",
       "published": ""
     },
     {
@@ -2530,13 +2530,6 @@
       "published": ""
     },
     {
-      "source": "skai",
-      "keyword": "υπόθεση Marfin",
-      "title": "Υπόθεση Marfin: Σήμερα η απολογία της 46χρονης – Τι υποστηρίζει για την ταυτοποίησή της",
-      "url": "https://www.skai.gr/news/greece/ypothesi-marfin-simera-i-apologia-tis-46xronis-ti-ypostirizei-gia-tin-taytopoiisi-tis",
-      "published": ""
-    },
-    {
       "source": "zougla",
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Σήμερα στην Αθήνα με αστυνομική συνοδεία η 46χρονη που εμπλέκεται στον εμπρησμό",
@@ -2559,7 +2552,7 @@
     },
     {
       "source": "skai",
-      "keyword": "Marfin",
+      "keyword": "υπόθεση Marfin",
       "title": "Υπόθεση Marfin: Στην Ευελπίδων η 46χρονη – Τι υποστηρίζει για την ταυτοποίησή της",
       "url": "https://www.skai.gr/news/greece/ypothesi-marfin-simera-i-apologia-tis-46xronis-ti-ypostirizei-gia-tin-taytopoiisi-tis",
       "published": ""
