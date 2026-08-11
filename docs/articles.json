@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T21:28:01.600674+00:00",
-  "count": 393,
+  "updated_at": "2026-08-11T22:25:05.560888+00:00",
+  "count": 391,
   "keywords": [
     "Marfin",
     "Μαρφίν",
@@ -192,13 +192,6 @@
       "published": ""
     },
     {
-      "source": "protothema",
-      "keyword": "Marfin",
-      "title": "179",
-      "url": "https://www.protothema.gr/greece/article/1863665/skeptiko-profulakisis-46hronis-theoroun-idiaiteros-epikinduni-prosilomeni-sto-shedio-tis-omadas-pou-purpolise-tin-marfin/",
-      "published": ""
-    },
-    {
       "source": "thepressproject",
       "keyword": "Marfin",
       "title": "2",
@@ -248,6 +241,20 @@
       "published": ""
     },
     {
+      "source": "newsbeast",
+      "keyword": "Marfin",
+      "title": "2 Marfin: Γιατί προφυλακίστηκε η 46χρονη – «Ιδιαίτερα επικίνδυνη» έκριναν ανακρίτρια και εισαγγελέας",
+      "url": "https://www.newsbeast.gr/society/arthro/13288101/marfin-giati-profylakistike-46chroni-apologia",
+      "published": ""
+    },
+    {
+      "source": "protothema",
+      "keyword": "Marfin",
+      "title": "216",
+      "url": "https://www.protothema.gr/greece/article/1863665/skeptiko-profulakisis-46hronis-theoroun-idiaiteros-epikinduni-prosilomeni-sto-shedio-tis-omadas-pou-purpolise-tin-marfin/",
+      "published": ""
+    },
+    {
       "source": "thepressproject",
       "keyword": "Marfin",
       "title": "3",
@@ -283,24 +290,17 @@
       "published": ""
     },
     {
-      "source": "newsbeast",
-      "keyword": "Marfin",
-      "title": "3 Marfin: Γιατί προφυλακίστηκε η 46χρονη – «Ιδιαίτερα επικίνδυνη» έκριναν ανακρίτρια και εισαγγελέας",
-      "url": "https://www.newsbeast.gr/society/arthro/13288101/marfin-giati-profylakistike-46chroni-apologia",
-      "published": ""
-    },
-    {
-      "source": "newsit",
-      "keyword": "Marfin",
-      "title": "32",
-      "url": "https://www.newsit.gr/ellada/marfin-idiaitera-epikindyni-kai-prosilomeni-sto-sxedio-i-46xroni-to-skeptiko-tis-apofasis-profylakisis/4748896/",
-      "published": ""
-    },
-    {
       "source": "newsit",
       "keyword": "Marfin",
       "title": "33",
       "url": "https://www.newsit.gr/ellada/marfin-epistrefei-simera-i-46xroni-pou-katigoreitai-gia-ton-foniko-emprismo-stelexi-tou-ellinikou-fbi-ti-fernoun-apo-ti-vretania/4745062/",
+      "published": ""
+    },
+    {
+      "source": "newsit",
+      "keyword": "Marfin",
+      "title": "34",
+      "url": "https://www.newsit.gr/ellada/marfin-idiaitera-epikindyni-kai-prosilomeni-sto-sxedio-i-46xroni-to-skeptiko-tis-apofasis-profylakisis/4748896/",
       "published": ""
     },
     {
@@ -420,13 +420,6 @@
       "keyword": "Marfin",
       "title": "Marfin: «Άδικη προφυλάκιση, καταστρέφει μια αθώα κατηγορούμενη – Δεν υπάρχει καμία ταυτοποίηση προσώπου» λέει ο δικηγόρος της 46χρονης",
       "url": "https://www.in.gr/2026/08/11/greece/marfin-adiki-profylakisi-katastrefei-mia-athoa-katigoroumeni-den-yparxei-kamia-taytopoiisi-prosopou-leei-o-dikigoros-tis-46xronis/",
-      "published": ""
-    },
-    {
-      "source": "skai",
-      "keyword": "Marfin",
-      "title": "Marfin: «Άδικη προφυλάκιση, καταστρέφει μια αθώα» λέει ο δικηγόρος της 46χρονης - Δείτε βίντεο",
-      "url": "https://www.skai.gr/news/greece/marfin-profylakistike-i-46xroni-adiki-profylakisi-leei-o-dikigoros-tis",
       "published": ""
     },
     {
@@ -2586,13 +2579,6 @@
       "published": ""
     },
     {
-      "source": "skai",
-      "keyword": "Marfin",
-      "title": "Υπόθεση Marfin: Προσωρινά κρατούμενη η 46χρονη",
-      "url": "https://www.skai.gr/news/greece/ypothesi-marfin-prosorina-kratoumeni-i-46xroni",
-      "published": ""
-    },
-    {
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Προφυλακίστηκε η 46χρονη μετά την απολογία της – Αρνείται τις κατηγορίες",
@@ -2643,7 +2629,7 @@
     },
     {
       "source": "skai",
-      "keyword": "υπόθεση Marfin",
+      "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Στην Ευελπίδων η 46χρονη – Τι υποστηρίζει για την ταυτοποίησή της",
       "url": "https://www.skai.gr/news/greece/ypothesi-marfin-simera-i-apologia-tis-46xronis-ti-ypostirizei-gia-tin-taytopoiisi-tis",
       "published": ""
