@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T18:53:59.955271+00:00",
+  "updated_at": "2026-08-20T19:40:25.812543+00:00",
   "count": 325,
   "keywords": [
     "Marfin",
@@ -1473,20 +1473,6 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "εμπρησμός Marfin",
-      "title": "Εμπρησμός Marfin: Για «ισχνά στοιχεία» μιλούν οι συνήγοροι υπεράσπισης των κατηγορουμένων",
-      "url": "https://www.news.gr/ellada/article/4175955/emprismos-marfin-gia-ischna-stichia-miloun-i-sinigori-iperaspisis-ton-katigoroumenon.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "εμπρησμός Marfin",
-      "title": "Εμπρησμός Marfin: Προφυλακίστηκε η 46χρονη μετά την απολογία της – «Συμμετείχα στη διαδήλωση, αλλά δεν έχω σχέση με τα επεισόδια»",
-      "url": "https://www.news.gr/ellada/article/4195193/emprismos-marfin-profilakistike-i-46chroni-meta-tin-apologia-tis-simmeticha-sti-diadilosi-alla-den-echo-schesi-me-ta-episodia.html",
-      "published": ""
-    },
-    {
       "source": "zougla",
       "keyword": "Marfin",
       "title": "Εμπρησμός Marfin: Στη δημοσιότητα νέες φωτογραφίες των κατηγορουμένων από διακοπές",
@@ -1893,6 +1879,13 @@
       "published": ""
     },
     {
+      "source": "newsgr",
+      "keyword": "υπόθεση Marfin",
+      "title": "Παραιτήθηκε το δημόσιο από τις αναιρέσεις για την υπόθεση Marfin",
+      "url": "https://www.news.gr/ellada/article/2245490/paretithike-to-dimosio-apo-tis-aneresis-gia-tin-ipothesi-marfin.html",
+      "published": ""
+    },
+    {
       "source": "tanea",
       "keyword": "Μαρφίν",
       "title": "Πολιτική Κυριάκος Μητσοτάκης: Κοινό μέτωπο κατά της τρομοκρατίας - Καμία ανοχή στο casus belli Την καθιερωμένη εβδομαδιαία ανασκόπησή του δημοσίευσε ο πρωθυπουργός Κυριάκος Μητσοτάκης, κάνοντας εκτενή αναφορά στις πολιτικές και διεθνείς εξελίξεις των τελευταίων ημερών. Μεταξύ άλλων, στάθηκε στις συλλήψεις για την υπόθεση της Μαρφίν, στη δολοφονία της Βάγιας Νέστορα, στις αποφάσεις της Συνόδου του ΝΑΤΟ, στις εξελίξεις στη Μέση Ανατολή και τα μέτρα για τις τιμές των καυσίμων, […] 12/07/2026 10:13",
@@ -2100,6 +2093,13 @@
       "keyword": "υπόθεση Marfin",
       "title": "Υπόθεση Marfin: Επικοινώνησε με τις Αρχές και επιστρέφει στην Ελλάδα από τη Μεγάλη Βρετανία – Δηλώνει αθώα",
       "url": "https://www.enikos.gr/society/ypothesi-marfin-epistrefei-stin-ellada-i-46chroni-pou-katigoreitai-dilonei-athoa-kai-thelei-na-katathesei-stis-arches/2612254/",
+      "published": ""
+    },
+    {
+      "source": "newsgr",
+      "keyword": "υπόθεση Marfin",
+      "title": "Υπόθεση Marfin: Επιστρέφει στην Ελλάδα η 46χρονη κατηγορούμενη για τον εμπρησμό που είχε συλληφθεί στο Λονδίνο",
+      "url": "https://www.news.gr/ellada/article/4192990/ipothesi-marfin-epistrefi-stin-ellada-i-46chroni-katigoroumeni-gia-ton-emprismo-pou-iche-sillifthi-sto-londino.html",
       "published": ""
     },
     {
