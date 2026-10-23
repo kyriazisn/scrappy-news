@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T12:52:47.568021+00:00",
-  "count": 393,
+  "updated_at": "2026-10-23T17:53:33.664470+00:00",
+  "count": 392,
   "keywords": [
     "Marfin",
     "Μαρφίν",
@@ -381,6 +381,13 @@
       "published": ""
     },
     {
+      "source": "newsgr",
+      "keyword": "Marfin",
+      "title": "Aρνήθηκε τις κατηγορίες που του αποδίδονται υποστηριζοντας ότι ουδεμία σχέση έχει με τα επεισόδια",
+      "url": "https://www.news.gr/ellada/article/4238860/emprismos-marfin-epestrepse-sti-filaki-o-tritos-katigoroumenos-meta-ti-simpliromatiki-apologia-tou.html",
+      "published": ""
+    },
+    {
       "source": "thepressproject",
       "keyword": "Marfin",
       "title": "Marfin και νομικές «παραδοξότητες»",
@@ -469,6 +476,13 @@
       "keyword": "Marfin",
       "title": "Marfin: Αντίστροφη μέτρηση για την απολογία της 46χρονης",
       "url": "https://www.enikos.gr/society/marfin-antistrofi-metrisi-gia-tin-apologia-tis-46chronis/2626894/",
+      "published": ""
+    },
+    {
+      "source": "debater",
+      "keyword": "Marfin",
+      "title": "Marfin: Απολογήθηκε συμπληρωματικά και ο τρίτος κατηγορούμενος – Τι υποστήριξε",
+      "url": "https://debater.gr/ellada/marfin-apologithike-sympliromatika-kai-o-tritos-katigoroymenos-ti-ypostirixe/",
       "published": ""
     },
     {
@@ -808,13 +822,6 @@
       "published": ""
     },
     {
-      "source": "debater",
-      "keyword": "Marfin",
-      "title": "Marfin: Στις φυλακές Ναυπλίου και Μαλανδρίνου οι δύο 42χρονοι μετά την προφυλάκισή τους",
-      "url": "https://debater.gr/ellada/marfin-stis-fylakes-nayplioy-kai-malandrinoy-oi-dyo-42chronoi-meta-tin-profylakisi-toys/",
-      "published": ""
-    },
-    {
       "source": "enikos",
       "keyword": "Marfin",
       "title": "Marfin: Στις φωτογραφίες της επίθεσης δεν είναι η 46χρονη, λέει ο δικηγόρος της – Απολογείται την Τρίτη",
@@ -910,13 +917,6 @@
       "keyword": "Marfin",
       "title": "Marfin: Την Πέμπτη 6 Αυγούστου η έκδοση της Ελένης Αργυρίου στην Ελλάδα",
       "url": "https://www.zougla.gr/greece/marfin-tin-pebti-6-avgoustou-i-ekdosi-tis-46chronis-elenis-argyriou-stin-ellada/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Marfin: Την Τρίτη θα απολογηθούν οι δύο κατηγορούμενοι για τη φονική πυρκαγιά",
-      "url": "https://www.news.gr/ellada/article/4174186/marfin-tin-triti-tha-apologithoun-i-dio-katigoroumeni-gia-ti-foniki-pirkagia.html",
       "published": ""
     },
     {
@@ -1629,6 +1629,13 @@
     {
       "source": "newsgr",
       "keyword": "Marfin",
+      "title": "Εμπρησμός Marfin: Επέστρεψε στη φυλακή ο τρίτος κατηγορούμενος μετά τη συμπληρωματική απολογία του",
+      "url": "https://www.news.gr/ellada/article/4238860/emprismos-marfin-epestrepse-sti-filaki-o-tritos-katigoroumenos-meta-ti-simpliromatiki-apologia-tou.html",
+      "published": ""
+    },
+    {
+      "source": "newsgr",
+      "keyword": "Marfin",
       "title": "Εμπρησμός Marfin: Προφυλακίστηκε η 46χρονη μετά την απολογία της – «Συμμετείχα στη διαδήλωση, αλλά δεν έχω σχέση με τα επεισόδια»",
       "url": "https://www.news.gr/ellada/article/4195193/emprismos-marfin-profilakistike-i-46chroni-meta-tin-apologia-tis-simmeticha-sti-diadilosi-alla-den-echo-schesi-me-ta-episodia.html",
       "published": ""
@@ -1750,6 +1757,13 @@
       "keyword": "Marfin",
       "title": "Εμπρησμός στη Marfin: “Δεν υπάρχει ταυτοποίηση” λέει ο δικηγόρος της 46χρονης – Τι είπε για την ξανθιά κοτσίδα",
       "url": "https://debater.gr/ellada/emprismos-sti-marfin-den-yparchei-taytopoiisi-leei-o-dikigoros-tis-46chronis-ti-eipe-gia-tin-xanthia-kotsida/",
+      "published": ""
+    },
+    {
+      "source": "newsbeast",
+      "keyword": "Marfin",
+      "title": "Εμπρησμός της Marfin: Προς το πέρας της οδεύει η ανάκριση μετά τη συμπληρωματική απολογία και του τρίτου κατηγορούμενου",
+      "url": "https://www.newsbeast.gr/society/arthro/13447125/ebrismos-tis-marfin-pros-to-peras-tis-odevei-i-anakrisi-meta-ti-sybliromatiki-apologia-kai-tou-tritou-katigoroumenou",
       "published": ""
     },
     {
@@ -2120,7 +2134,7 @@
       "source": "newsbeast",
       "keyword": "Marfin",
       "title": "Νέο παράθυρο",
-      "url": "https://www.newsbeast.gr/society/arthro/13446414/ypothesi-marfin-epestrepse-sti-fylaki-o-tritos-katigoroumenos-meta-ti-sybliromatiki-apologia-tou",
+      "url": "https://www.newsbeast.gr/society/arthro/13447125/ebrismos-tis-marfin-pros-to-peras-tis-odevei-i-anakrisi-meta-ti-sybliromatiki-apologia-kai-tou-tritou-katigoroumenou",
       "published": ""
     },
     {
@@ -2163,13 +2177,6 @@
       "keyword": "Marfin",
       "title": "Παράσταση υποστήριξης κατηγορίας υπέβαλλαν συγγενείς θύματος - Με ποιο σκεπτικό προφυλακίστηκαν οι δύο κατηγορούμενοι",
       "url": "https://www.news.gr/ellada/article/4177801/marfin-sto-mikroskopio-to-anonimo-email.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "υπόθεση Marfin",
-      "title": "Παραιτήθηκε το δημόσιο από τις αναιρέσεις για την υπόθεση Marfin",
-      "url": "https://www.news.gr/ellada/article/2245490/paretithike-to-dimosio-apo-tis-aneresis-gia-tin-ipothesi-marfin.html",
       "published": ""
     },
     {
@@ -2357,13 +2364,6 @@
     {
       "source": "newsgr",
       "keyword": "Marfin",
-      "title": "Τα εντάλματα σύλληψης αφορούν το αδίκημα της ανθρωποκτονίας από πρόθεση κατά συρροή",
-      "url": "https://www.news.gr/ellada/article/4174186/marfin-tin-triti-tha-apologithoun-i-dio-katigoroumeni-gia-ti-foniki-pirkagia.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
       "title": "Την παραβίαση των προσωπικών δεδομένων της 46χρονης κατηγορούμενης για τον εμπρησμό Marfin καταγγέλλει ο δικηγόρος της",
       "url": "https://www.news.gr/ellada/article/4178867/tin-paraviasi-ton-prosopikon-dedomenon-tis-46chronis-katigoroumenis-gia-tin-marfin-katangelli-o-dikigoros-tis.html",
       "published": ""
@@ -2449,21 +2449,14 @@
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Επέστρεψε στη φυλακή και ο τρίτος κατηγορούμενος μετά τη συμπληρωματική απολογία",
-      "url": "https://www.naftemporiki.gr/society/2179153/ypothesi-marfin-epestrepse-sti-fylaki-kai-o-tritos-katigoroymenos-meta-ti-sympliromatiki-apologia/",
+      "url": "https://www.naftemporiki.gr/?s=%CE%A5%CF%80%CF%8C%CE%B8%CE%B5%CF%83%CE%B7+Marfin%3A+%CE%95%CF%80%CE%AD%CF%83%CF%84%CF%81%CE%B5%CF%88%CE%B5+%CF%83%CF%84%CE%B7+%CF%86%CF%85%CE%BB%CE%B1%CE%BA%CE%AE+%CE%BA%CE%B1%CE%B9+%CE%BF+%CF%84%CF%81%CE%AF%CF%84%CE%BF%CF%82+%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CF%82+%CE%BC%CE%B5%CF%84%CE%AC+%CF%84%CE%B7+%CF%83%CF%85%CE%BC%CF%80%CE%BB%CE%B7%CF%81%CF%89%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE+%CE%B1%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1",
       "published": ""
     },
     {
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Επέστρεψε στη φυλακή και ο τρίτος κατηγορούμενος μετά τη συμπληρωματική απολογία",
-      "url": "https://www.naftemporiki.gr/?s=%CE%A5%CF%80%CF%8C%CE%B8%CE%B5%CF%83%CE%B7+Marfin%3A+%CE%95%CF%80%CE%AD%CF%83%CF%84%CF%81%CE%B5%CF%88%CE%B5+%CF%83%CF%84%CE%B7+%CF%86%CF%85%CE%BB%CE%B1%CE%BA%CE%AE+%CE%BA%CE%B1%CE%B9+%CE%BF+%CF%84%CF%81%CE%AF%CF%84%CE%BF%CF%82+%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%BF%CF%82+%CE%BC%CE%B5%CF%84%CE%AC+%CF%84%CE%B7+%CF%83%CF%85%CE%BC%CF%80%CE%BB%CE%B7%CF%81%CF%89%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%AE+%CE%B1%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1",
-      "published": ""
-    },
-    {
-      "source": "newsbeast",
-      "keyword": "Marfin",
-      "title": "Υπόθεση Marfin: Επέστρεψε στη φυλακή ο τρίτος κατηγορούμενος μετά τη συμπληρωματική απολογία του",
-      "url": "https://www.newsbeast.gr/society/arthro/13446414/ypothesi-marfin-epestrepse-sti-fylaki-o-tritos-katigoroumenos-meta-ti-sybliromatiki-apologia-tou",
+      "url": "https://www.naftemporiki.gr/society/2179153/ypothesi-marfin-epestrepse-sti-fylaki-kai-o-tritos-katigoroymenos-meta-ti-sympliromatiki-apologia/",
       "published": ""
     },
     {
