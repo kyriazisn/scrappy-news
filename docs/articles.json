@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T04:27:33.390554+00:00",
+  "updated_at": "2026-10-24T09:07:23.214944+00:00",
   "count": 392,
   "keywords": [
     "Marfin",
@@ -924,13 +924,6 @@
       "keyword": "Marfin",
       "title": "Mε τον τρομονόμο οι κατηγορούμενοι της Marfin – «Θέλουν δίκη χωρίς ενόρκους», λένε οι δικηγόροι τους στο TPP",
       "url": "https://thepressproject.gr/me-ton-tromonomo-oi-katigoroumenoi-tis-marfin-theloun-diki-choris-enorkous-lene-oi-dikigoroi-tous-sto-tpp/",
-      "published": ""
-    },
-    {
-      "source": "skai",
-      "keyword": "Marfin",
-      "title": "play",
-      "url": "https://www.skai.gr/news/greece/ypothesi-marfin-apologithike-sympliromatika-kai-o-3os-katigoroumenos",
       "published": ""
     },
     {
@@ -2173,6 +2166,13 @@
       "published": ""
     },
     {
+      "source": "newsgr",
+      "keyword": "υπόθεση Marfin",
+      "title": "Παραιτήθηκε το δημόσιο από τις αναιρέσεις για την υπόθεση Marfin",
+      "url": "https://www.news.gr/ellada/article/2245490/paretithike-to-dimosio-apo-tis-aneresis-gia-tin-ipothesi-marfin.html",
+      "published": ""
+    },
+    {
       "source": "tanea",
       "keyword": "Μαρφίν",
       "title": "Πολιτική Κυριάκος Μητσοτάκης: Κοινό μέτωπο κατά της τρομοκρατίας - Καμία ανοχή στο casus belli Την καθιερωμένη εβδομαδιαία ανασκόπησή του δημοσίευσε ο πρωθυπουργός Κυριάκος Μητσοτάκης, κάνοντας εκτενή αναφορά στις πολιτικές και διεθνείς εξελίξεις των τελευταίων ημερών. Μεταξύ άλλων, στάθηκε στις συλλήψεις για την υπόθεση της Μαρφίν, στη δολοφονία της Βάγιας Νέστορα, στις αποφάσεις της Συνόδου του ΝΑΤΟ, στις εξελίξεις στη Μέση Ανατολή και τα μέτρα για τις τιμές των καυσίμων, […] 12/07/2026 10:13",
@@ -2412,7 +2412,7 @@
     },
     {
       "source": "skai",
-      "keyword": "Marfin",
+      "keyword": "υπόθεση Marfin",
       "title": "Υπόθεση Marfin: Απολογήθηκε συμπληρωματικά και ο 3ος κατηγορούμενος - Αρνήθηκε την εμπλοκή του",
       "url": "https://www.skai.gr/news/greece/ypothesi-marfin-apologithike-sympliromatika-kai-o-3os-katigoroumenos",
       "published": ""
