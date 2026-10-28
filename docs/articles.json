@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T06:14:36.893655+00:00",
-  "count": 369,
+  "updated_at": "2026-10-28T13:30:37.955668+00:00",
+  "count": 390,
   "keywords": [
     "Marfin",
     "Μαρφίν",
@@ -178,6 +178,13 @@
       "published": ""
     },
     {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "2",
+      "url": "https://www.in.gr/search/Marfin/page/2/",
+      "published": ""
+    },
+    {
       "source": "tanea",
       "keyword": "Marfin",
       "title": "2",
@@ -238,6 +245,13 @@
       "keyword": "Marfin",
       "title": "3",
       "url": "https://www.news.gr/page/3?s=Marfin",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "3",
+      "url": "https://www.in.gr/search/Marfin/page/3/",
       "published": ""
     },
     {
@@ -381,10 +395,24 @@
       "published": ""
     },
     {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Marfin: «Άδικη προφυλάκιση, καταστρέφει μια αθώα κατηγορούμενη – Δεν υπάρχει καμία ταυτοποίηση προσώπου» λέει ο δικηγόρος της 46χρονης",
+      "url": "https://www.in.gr/2026/08/11/greece/marfin-adiki-profylakisi-katastrefei-mia-athoa-katigoroumeni-den-yparxei-kamia-taytopoiisi-prosopou-leei-o-dikigoros-tis-46xronis/",
+      "published": ""
+    },
+    {
       "source": "newsit",
       "keyword": "Marfin",
       "title": "Marfin: «Δεν υπάρχει ταυτοποίηση» λέει ο δικηγόρος της 46χρονης – Η ξανθιά κοτσίδα και η εξέταση του 2022 για την ίδια υπόθεση",
       "url": "https://www.newsit.gr/ellada/marfin-den-yparxei-taytopoiisi-leei-o-dikigoros-tis-46xronis-i-ksanthia-kotsida-kai-i-eksetasi-tou-2022-gia-tin-idia-ypothesi/4746583/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Marfin: «Δικαιοσύνη δεν απονέμεται με ενοχοποίηση αθώων», λέει ο δικηγόρος της 46χρονης - Αύριο η απολογία της",
+      "url": "https://www.in.gr/2026/08/10/greece/marfin-dikaiosyni-den-aponemetai-me-enoxopoiisi-athoon-leei-o-dikigoros-tis-46xronis-ayrio-i-apologia-tis/",
       "published": ""
     },
     {
@@ -402,10 +430,24 @@
       "published": ""
     },
     {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Marfin: «Οχι» του δικαστικού συμβουλίου στην αποφυλάκιση της 46χρονης κατηγορούμενης – Παραμένει στη φυλακή",
+      "url": "https://www.in.gr/2026/09/30/greece/marfin-oxi-tou-dikastikou-symvouliou-stin-apofylakisi-tis-46xronis-katigoroumenis-paramenei-sti-fylaki/",
+      "published": ""
+    },
+    {
       "source": "zougla",
       "keyword": "Marfin",
       "title": "Marfin: «Στις φωτογραφίες της επίθεσης δεν είναι η εντολέας μου», είπε ο δικηγόρος της 46χρονης",
       "url": "https://www.zougla.gr/greece/marfin-stis-fotografies-tis-epithesis-den-einai-i-entoleas-mou-eipe-o-dikigoros-tis-46chronis/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Marfin: «Χωρίς τεκμηρίωση η προφυλάκιση της 46χρονης» – Σε προσφυγή προχωρά η υπεράσπιση",
+      "url": "https://www.in.gr/2026/08/12/greece/marfin-xoris-tekmiriosi-i-profylakisi-tis-46xronis-se-prosfygi-proxora-i-yperaspisi/",
       "published": ""
     },
     {
@@ -465,6 +507,13 @@
       "published": ""
     },
     {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Marfin: Απολογείται σήμερα η 46χρονη – Αρνείται κάθε σχέση με τη φονική επίθεση",
+      "url": "https://www.in.gr/2026/08/11/greece/marfin-apologeitai-simera-i-46xroni-arneitai-kathe-sxesi-me-ti-foniki-epithesi/",
+      "published": ""
+    },
+    {
       "source": "thepressproject",
       "keyword": "Marfin",
       "title": "Marfin: Απολογείται σήμερα η 46χρονη – Αρνείται κάθε σχέση με την εμπρηστική επίθεση",
@@ -504,6 +553,13 @@
       "keyword": "Marfin",
       "title": "Marfin: Γόνος εύπορης οικογένειας το νούμερο «8» των κατηγορούμενων – Το χαρακτηριστικό σακίδιο",
       "url": "https://www.naftemporiki.gr/society/2136414/marfin-gonos-eyporis-oikogeneias-to-noymero-8-ton-draston-to-sakidio-poy-ton-prodose/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Marfin: Δεν υπάρχει ταυτοποίηση της 46χρονης - Η ίδια εξέταση είχε γίνει και το 2022 - Τι λέει ο δικηγόρος της",
+      "url": "https://www.in.gr/2026/08/08/greece/marfin-den-exei-taytopoiithei-i-46xroni-i-idia-eksetasi-egine-kai-to-2022-ti-leei-o-dikigoros-tis/",
       "published": ""
     },
     {
@@ -560,6 +616,13 @@
       "keyword": "Marfin",
       "title": "Marfin: Νέα φωτογραφικά ντοκουμέντα και βίντεο από τη δολοφονική επίθεση – «Μας έλεγαν “να καείτε όλοι”»",
       "url": "https://www.enikos.gr/sports/marfin-nea-fotografika-ntokoumenta-kai-vinteo-apo-ti-dolofoniki-epithesi-mas-elegan-na-kaeite-oloi/2615488/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Marfin: Νομική αντιμετώπιση δημοσιευμάτων και αναρτήσεων για την 46χρονη προαναγγέλλει δικηγόρος της",
+      "url": "https://www.in.gr/2026/07/16/greece/marfin-nomiki-antimetopisi-dimosieymaton-kai-anartiseon-gia-tin-46xroni-proanaggellei-dikigoros-tis/",
       "published": ""
     },
     {
@@ -703,10 +766,24 @@
       "published": ""
     },
     {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Marfin: Σοκαριστικό βίντεο ντοκουμέντο από τη δολοφονική εμπρηστική επίθεση",
+      "url": "https://www.in.gr/2026/07/16/greece/marfin-sokaristiko-vinteo-ntokoumento-apo-ti-dolofoniki-empristiki-epithesi/",
+      "published": ""
+    },
+    {
       "source": "enikos",
       "keyword": "Marfin",
       "title": "Marfin: Στη Βρετανία κλιμάκιο του «ελληνικού FBI» για την έκδοση της 46χρονης",
       "url": "https://www.enikos.gr/society/marfin-sti-vretania-klimakio-tou-ellinikou-fbi-gia-tin-ekdosi-tis-46chronis/2624970/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Marfin: Στη ΓΑΔΑ η 46χρονη που κατηγορείται για τον εμπρησμό – Το πρωί θα πάει στον εισαγγελέα",
+      "url": "https://www.in.gr/2026/08/07/greece/marfin-sti-gada-i-46xroni-pou-katigoreitai-gia-ton-emprismo-to-proi-tha-paei-ston-eisaggelea/",
       "published": ""
     },
     {
@@ -1572,7 +1649,7 @@
     },
     {
       "source": "in",
-      "keyword": "εμπρησμός Marfin",
+      "keyword": "Marfin",
       "title": "Εμπρησμός Marfin: Τι αναφέρει η έκθεση της ΔΕΕ για την ταυτοποίηση των τριών κατηγορούμενων",
       "url": "https://www.in.gr/2026/07/16/greece/emprismos-marfin-ti-anaferei-i-ekthesi-tis-dee-gia-tin-taytopoiisi-ton-trion-katigoroumenon/",
       "published": ""
@@ -1743,6 +1820,27 @@
       "keyword": "Marfin",
       "title": "Επιστρέφει σήμερα η 46χρονη που κατηγορείται για την τραγωδία της Marfin – Στελέχη του ελληνικού FBI τη φέρνουν από τη Βρετανία",
       "url": "https://www.newsit.gr/ellada/marfin-epistrefei-simera-i-46xroni-pou-katigoreitai-gia-ton-foniko-emprismo-stelexi-tou-ellinikou-fbi-ti-fernoun-apo-ti-vretania/4745062/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Επιστρέφει σήμερα η 46χρονη που κατηγορείται για τον εμπρησμό στη Marfin - Ενώπιον του εισαγγελέα την Παρασκευή",
+      "url": "https://www.in.gr/2026/08/06/greece/marfin-epistrefei-simera-i-46xroni-pou-katigoreitai-gia-ton-emprismo-enopion-tou-eisaggelea-tin-paraskeyi/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Επιστρέφει στη φυλακή και ο τρίτος κατηγορούμενος της υπόθεσης Marfin, μετά τη συμπληρωματική απολογία του",
+      "url": "https://www.in.gr/2026/10/23/greece/ypothesi-marfin-epistrefei-sti-fylaki-kai-o-tritos-katigoroumenos-meta-ti-sympliromatiki-apologia-tou/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Επιστρέφουν στη φυλακή οι δύο κατηγορούμενοι για την υπόθεση της Marfin, μετά τη συμπληρωματική απολογία τους",
+      "url": "https://www.in.gr/2026/10/21/greece/ypothesi-marfin-epistrefoun-sti-fylaki-oi-dyo-katigoroumenoi-meta-ti-sympliromatiki-apologia-tous/",
       "published": ""
     },
     {
@@ -2068,13 +2166,6 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "υπόθεση Marfin",
-      "title": "Παραιτήθηκε το δημόσιο από τις αναιρέσεις για την υπόθεση Marfin",
-      "url": "https://www.news.gr/ellada/article/2245490/paretithike-to-dimosio-apo-tis-aneresis-gia-tin-ipothesi-marfin.html",
-      "published": ""
-    },
-    {
       "source": "tanea",
       "keyword": "Μαρφίν",
       "title": "Πολιτική Κυριάκος Μητσοτάκης: Κοινό μέτωπο κατά της τρομοκρατίας - Καμία ανοχή στο casus belli Την καθιερωμένη εβδομαδιαία ανασκόπησή του δημοσίευσε ο πρωθυπουργός Κυριάκος Μητσοτάκης, κάνοντας εκτενή αναφορά στις πολιτικές και διεθνείς εξελίξεις των τελευταίων ημερών. Μεταξύ άλλων, στάθηκε στις συλλήψεις για την υπόθεση της Μαρφίν, στη δολοφονία της Βάγιας Νέστορα, στις αποφάσεις της Συνόδου του ΝΑΤΟ, στις εξελίξεις στη Μέση Ανατολή και τα μέτρα για τις τιμές των καυσίμων, […] 12/07/2026 10:13",
@@ -2082,10 +2173,31 @@
       "published": ""
     },
     {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Προθεσμία για την Τρίτη πήρε η 46χρονη που κατηγορείται για τον εμπρησμό της Marfin - «Είμαι αθώα», είπε η ίδια",
+      "url": "https://www.in.gr/2026/08/07/greece/marfin-prothesmia-gia-tin-triti-pire-i-46xroni-gia-ton-emprismo-eimai-athoa-eipe-idia/",
+      "published": ""
+    },
+    {
       "source": "newsit",
       "keyword": "Marfin",
       "title": "Προθεσμία πήραν οι 3 κατηγορούμενοι για τον εμπρησμό της Marfin - Επεισόδια στην Ευελπίδων κατά τη μεταγωγή τους",
       "url": "https://www.newsit.gr/ellada/marfin-prothesmia-piran-oi-3-katigoroumenoi-gia-ton-emprismo-epeisodia-stin-eyelpidon-kata-ti-metagogi-tous/4797096/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Προσφυγή κατά της προφυλάκισης της 46χρονης για τη Marfin, κατέθεσε ο δικηγόρος της - Ελπίζουμε σε κρίση με βάση τα στοιχεία",
+      "url": "https://www.in.gr/2026/08/14/greece/marfin-prosfygi-kata-tis-prosorinis-kratisis-tis-46xronis-elpizoume-se-krisi-me-vasi-ta-stoixeia/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Προφυλακίζεται η 46χρονη για τον εμπρησμό της Marfin",
+      "url": "https://www.in.gr/2026/08/11/greece/profylakizetai-i-46xroni-gia-ton-emprismo-tis-marfin/",
       "published": ""
     },
     {
@@ -2107,6 +2219,13 @@
       "keyword": "Marfin",
       "title": "Ραγδαίες εξελίξεις: Συνελήφθη στη Βρετανία η 46χρονη που κατηγορείται για τον εμπρησμό στη Marfin",
       "url": "https://www.news.gr/ellada/article/4175266/sinelifthi-sti-vretania-i-46chroni-pou-katigorite-gia-ton-emprismo-sti-marfin.html",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Σήμερα η απολογία των δύο εκ των τριών κατηγορουμένων για τον φονικό εμπρησμό στη Marfin",
+      "url": "https://www.in.gr/2026/10/21/greece/ypothesi-marfin-simera-i-apologia-dyo-ek-ton-trion-katigoroumenon/",
       "published": ""
     },
     {
@@ -2159,6 +2278,13 @@
       "published": ""
     },
     {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Στην Ευελπίδων η 46χρονη κατηγορούμενη για την υπόθεση της Marfin",
+      "url": "https://www.in.gr/2026/08/11/greece/stin-eyelpidon-i-46xroni-katigoroumeni-gia-tin-ypothesi-tis-marfin/",
+      "published": ""
+    },
+    {
       "source": "newsit",
       "keyword": "Marfin",
       "title": "Στην Ευελπίδων οι 3 προφυλακισμένοι για τον εμπρησμό της Marfin - Απολογούνται ξανά μετά την αναβάθμιση των κατηγοριών",
@@ -2173,6 +2299,13 @@
       "published": ""
     },
     {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Στο Εφετείο έφτασε η 46χρονη που κατηγορείται για τον εμπρησμό της Marfin - Πέρασε τη νύχτα στη ΓΑΔΑ",
+      "url": "https://www.in.gr/2026/08/07/greece/marfin-sto-efeteio-eftase-i-46xroni-perase-ti-nyxta-sti-gada/",
+      "published": ""
+    },
+    {
       "source": "newsgr",
       "keyword": "Marfin",
       "title": "Στο πλευρό τους, στα δικαστήρια της Ευελπίδων βρέθηκαν από νωρίς το πρωί δεκάδες αλληλέγγυοι",
@@ -2184,6 +2317,13 @@
       "keyword": "Marfin",
       "title": "Στον Εισαγγελέα σήμερα η 46χρονη για την υπόθεση της Marfin",
       "url": "https://www.zougla.gr/greece/ston-eisangelea-simera-i-46chroni-gia-tin-ypothesi-tis-marfin/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Στον εισαγγελέα σήμερα η 46χρονη που κατηγορείται για την επίθεση στη Marfin",
+      "url": "https://www.in.gr/2026/08/07/greece/marfin-ston-eisaggelea-simera-i-46xroni-pou-katigoreitai-gia-tin-foniki-epithesi/",
       "published": ""
     },
     {
@@ -2349,7 +2489,7 @@
     },
     {
       "source": "in",
-      "keyword": "υπόθεση Marfin",
+      "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Καλούνται για συμπληρωματική απολογία οι τρεις κατηγορούμενοι – Αναβαθμίζεται το κατηγορητήριο",
       "url": "https://www.in.gr/2026/10/12/greece/ypothesi-marfin-kalountai-gia-sympliromatiki-apologia-oi-treis-katigoroumenoi-anavathmizetai-to-katigoritirio/",
       "published": ""
@@ -2370,7 +2510,7 @@
     },
     {
       "source": "in",
-      "keyword": "υπόθεση Marfin",
+      "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Να παραμείνει στη φυλακή και να απορριφθεί η προσφυγή της 46χρονης προτείνει η εισαγγελέας",
       "url": "https://www.in.gr/2026/09/04/greece/ypothesi-marfin-na-parameinei-sti-fylaki-kai-na-aporrifthei-i-prosfygi-tis-46xronis-proteinei-o-eisaggeleas/",
       "published": ""
@@ -2496,7 +2636,7 @@
     },
     {
       "source": "in",
-      "keyword": "υπόθεση Marfin",
+      "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Την επόμενη εβδομάδα η απολογία των τριών κατηγορουμένων μετά τη συμπληρωματική δίωξη",
       "url": "https://www.in.gr/2026/10/13/greece/ypothesi-marfin-tin-epomeni-evdomada-i-apologia-ton-trion-katigoroumenon-meta-ti-sympliromatiki-dioksi/",
       "published": ""
@@ -2510,7 +2650,7 @@
     },
     {
       "source": "in",
-      "keyword": "υπόθεση Marfin",
+      "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Την Παρασκευή στον εισαγγελέα η 46χρονη που συνελήφθη στην Αγγλία – Φτάνει αύριο στην Αθήνα",
       "url": "https://www.in.gr/2026/08/05/greece/ypothesi-marfin-tin-paraskeyi-ston-eisaggelea-i-46xroni-pou-synelifthi-stin-agglia-ftanei-ayrio-stin-athina/",
       "published": ""
@@ -2583,6 +2723,13 @@
       "keyword": "Μαρφίν",
       "title": "Χυδαία επίθεση στελέχους της ΝΔ στη Μαρία Καρυστιανού: «Τι έχετε κάνει και πει για τη μάνα του Αξαρλιάν, τα θύματα της Μαρφίν και του Ματιού;»",
       "url": "https://thepressproject.gr/chydaia-epithesi-stelechous-tis-nd-sti-maria-karystianou-ti-echete-kanei-kai-pei-gia-ti-mana-tou-axarlian-ta-thymata-tis-marfin-kai-tou-matiou/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Marfin",
+      "title": "Όλο το παρασκήνιο των ερευνών για τη Marfin",
+      "url": "https://www.in.gr/2026/07/20/greece/olo-to-paraskinio-ton-ereynon-gia-ti-marfin/",
       "published": ""
     },
     {
