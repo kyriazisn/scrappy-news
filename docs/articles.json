@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T00:02:22.967278+00:00",
-  "count": 382,
+  "updated_at": "2026-11-11T06:04:21.272202+00:00",
+  "count": 267,
   "keywords": [
     "Marfin",
     "Μαρφίν",
@@ -171,24 +171,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "2",
-      "url": "https://www.news.gr/page/2?s=Marfin",
-      "published": ""
-    },
-    {
       "source": "in",
       "keyword": "Marfin",
       "title": "2",
       "url": "https://www.in.gr/search/Marfin/page/2/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "2",
-      "url": "https://www.tanea.gr/search/Marfin/page/2/",
       "published": ""
     },
     {
@@ -241,24 +227,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "3",
-      "url": "https://www.news.gr/page/3?s=Marfin",
-      "published": ""
-    },
-    {
       "source": "in",
       "keyword": "Marfin",
       "title": "3",
       "url": "https://www.in.gr/search/Marfin/page/3/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "3",
-      "url": "https://www.tanea.gr/search/Marfin/page/3/",
       "published": ""
     },
     {
@@ -311,13 +283,6 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "4",
-      "url": "https://www.news.gr/page/4?s=Marfin",
-      "published": ""
-    },
-    {
       "source": "zougla",
       "keyword": "Marfin",
       "title": "4",
@@ -360,31 +325,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": ">",
-      "url": "https://www.news.gr/page/2?s=Marfin",
-      "published": ""
-    },
-    {
       "source": "enikos",
       "keyword": "Marfin",
       "title": ">",
       "url": "https://www.enikos.gr/page/2/?s=Marfin",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Μαρφίν",
-      "title": "Aνοίγει πάλι ο φάκελος της υπόθεσης Μαρφίν",
-      "url": "https://www.news.gr/ellada/article/2534465/anigi-pali-o-fakelos-tis-ipothesis-marfin.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Aρνήθηκε τις κατηγορίες που του αποδίδονται υποστηριζοντας ότι ουδεμία σχέση έχει με τα επεισόδια",
-      "url": "https://www.news.gr/ellada/article/4238860/emprismos-marfin-epestrepse-sti-filaki-o-tritos-katigoroumenos-meta-ti-simpliromatiki-apologia-tou.html",
       "published": ""
     },
     {
@@ -458,6 +402,13 @@
       "published": ""
     },
     {
+      "source": "tanea",
+      "keyword": "Marfin",
+      "title": "Marfin: Άνοιξε ο κύκλος των συμπληρωματικών απολογιών – Πίσω στη φυλακή οι δύο κατηγορούμενοι, την Παρασκευή απολογείται ο τρίτος",
+      "url": "https://www.tanea.gr/2026/10/21/greece/marfin-anoikse-o-kyklos-ton-sympliromatikon-apologion-piso-sti-fylaki-oi-dyo-katigoroumenoi-tin-paraskeyi-apologeitai-o-tritos/",
+      "published": ""
+    },
+    {
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "Marfin: Ακόμη δύο πρόσωπα στο μικροσκόπιο των Αρχών – Oι ρόλοι τους, τα στοιχεία και η Τεχνητή Νοημοσύνη",
@@ -521,13 +472,6 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Marfin: Απολογούνται σήμερα οι δύο κατηγορούμενοι – «Δεν υπάρχει ταυτοποίηση των προσώπων, με τα πρόσωπα που υπάρχουν στις φωτογραφίες»",
-      "url": "https://www.news.gr/ellada/article/4176315/marfin-apologounte-simera-i-dio-katigoroumeni.html",
-      "published": ""
-    },
-    {
       "source": "zougla",
       "keyword": "Marfin",
       "title": "Marfin: Απορρίφθηκε η προσφυγή κατά της προσωρινής κράτησης της 46χρονης",
@@ -570,10 +514,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
+      "source": "tanea",
       "keyword": "Marfin",
-      "title": "Marfin: Επιστρέφει στην Ελλάδα η 46χρονη που διαμένει στη Μεγάλη Βρετανία – Δηλώνει αθώα και θέλει να καταθέσει στις Αρχές",
-      "url": "https://www.news.gr/ellada/article/4174483/marfin-epistrefi-stin-ellada-i-46chroni-diloni-athoa-ke-theli-na-katathesi-stis-arches.html",
+      "title": "Marfin: Επέστρεψε στη φυλακή και ο τρίτος κατηγορούμενος – «Δεν έχω καμία σχέση με τα επεισόδια»",
+      "url": "https://www.tanea.gr/2026/10/23/greece/marfin-epestrepse-sti-fylaki-kai-o-tritos-katigoroumenos-den-exo-kamia-sxesi-me-ta-epeisodia/",
       "published": ""
     },
     {
@@ -595,13 +539,6 @@
       "keyword": "Marfin",
       "title": "Marfin: Η στιγμή της δολοφονικής επίθεσης με μολότοφ στην τράπεζα – Οι φωτογραφίες των διακοπών που έδεσαν την υπόθεση",
       "url": "https://debater.gr/ellada/marfin-kare-kare-i-stigmi-tis-dolofonikis-epithesis-me-molotof-stin-trapeza-oi-fotografies-ton-diakopon-poy-edesan-tin-ypothesi/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Marfin: Νέα δίωξη σε βάρος των κατηγορουμένων που καλούνται σε συμπληρωματική απολογία",
-      "url": "https://www.news.gr/ellada/article/4230652/marfin-nea-dioxi-se-varos-ton-katigoroumenon-pou-kalounte-se-simpliromatiki-apologia.html",
       "published": ""
     },
     {
@@ -658,13 +595,6 @@
       "keyword": "Marfin",
       "title": "Marfin: Προθεσμία για να απολογηθεί την Τρίτη πήρε η 46χρονη",
       "url": "https://www.zougla.gr/greece/marfin-prothesmia-gia-na-apologithei-tin-triti-pire-i-46chroni/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Marfin: Προθεσμία για να απολογηθούν συμπληρωματικά τις επόμενες ημέρες πήραν οι τρεις κατηγορούμενοι – Ένταση έξω από τα δικαστήρια",
-      "url": "https://www.news.gr/ellada/article/4231321/marfin-prothesmia-gia-na-apologithoun-simpliromatika-tis-epomenes-imeres-piran-i-tris-katigoroumeni-entasi-exo-apo-ta-dikastiria.html",
       "published": ""
     },
     {
@@ -822,17 +752,17 @@
       "published": ""
     },
     {
+      "source": "tanea",
+      "keyword": "Marfin",
+      "title": "Marfin: Στις 21 και 23 Οκτωβρίου οι απολογίες των τριών – Τι περιλαμβάνει η συμπληρωματική δίωξη",
+      "url": "https://www.tanea.gr/2026/10/13/greece/marfin-stis-21-kai-23-oktovriou-oi-apologies-ton-trion-ti-perilamvanei-i-sympliromatiki-dioksi/",
+      "published": ""
+    },
+    {
       "source": "enikos",
       "keyword": "Marfin",
       "title": "Marfin: Στις φωτογραφίες της επίθεσης δεν είναι η 46χρονη, λέει ο δικηγόρος της – Απολογείται την Τρίτη",
       "url": "https://www.enikos.gr/society/marfin-stis-fotografies-tis-epithesis-den-einai-i-46chroni-leei-o-dikigoros-tis-apologeitai-tin-triti/2626123/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Marfin: Στο «μικροσκόπιο» το ανώνυμο email",
-      "url": "https://www.news.gr/ellada/article/4177801/marfin-sto-mikroskopio-to-anonimo-email.html",
       "published": ""
     },
     {
@@ -920,6 +850,13 @@
       "published": ""
     },
     {
+      "source": "tanea",
+      "keyword": "Marfin",
+      "title": "Marfin: Τρομοκρατική πράξη χαρακτηρίζεται η επίθεση – Σε συμπληρωματική απολογία αύριο οι τρεις κατηγορούμενοι",
+      "url": "https://www.tanea.gr/2026/10/12/greece/marfin-tromokratiki-praksi-xaraktirizetai-i-epithesi-se-sympliromatiki-apologia-ayrio-oi-treis-katigoroumenoi/",
+      "published": ""
+    },
+    {
       "source": "thepressproject",
       "keyword": "Marfin",
       "title": "Mε τον τρομονόμο οι κατηγορούμενοι της Marfin – «Θέλουν δίκη χωρίς ενόρκους», λένε οι δικηγόροι τους στο TPP",
@@ -927,52 +864,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "«Αθώα, δεν έχει καμία σχέση με την επίθεση», λέει ο δικηγόρος της",
-      "url": "https://www.news.gr/ellada/article/4193961/emprismos-tis-marfin-prothesmia-gia-na-apologithi-tin-triti-pire-i-46chroni.html",
-      "published": ""
-    },
-    {
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "«Δεν ήμασταν στο σημείο» – Τι υποστήριξαν οι δύο κατηγορούμενοι για την τραγωδία της Marfin",
       "url": "https://www.naftemporiki.gr/society/2137694/den-imastan-sto-simeio-ti-ypostirixan-oi-dyo-katigoroymenoi-gia-tin-tragodia-tis-marfin/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "«Είχαμε χάσει τις ελπίδες μας, ειδικά όταν σκεφτόμαστε ότι πλησιάζουμε στην 20ετία»",
-      "url": "https://www.news.gr/ellada/article/4174820/karagianni-epizisasa-tis-tragodias-tis-marfin-zitima-ithikis-dikeosis-o-entopismos-ton-pragmatikon-draston.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "«Θα εξαντλήσουμε κάθε νόμιμο μέσο μέχρι τη δικαίωση», τόνισε ο δικηγόρος της",
-      "url": "https://www.news.gr/ellada/article/4222616/emprismos-marfin-aporrifthike-i-prosfigi-tis-46chronis-gia-tin-apofilakisi-tis.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "«Ναι» στην έκδοσή της από την Βρετανία στην Ελλάδα είπε η 46χρονη που κατηγορείται για τον εμπρησμό της Marfin",
-      "url": "https://www.news.gr/ellada/article/4176945/ne-stin-ekdosi-tis-apo-tin-vretania-stin-ellada-ipe-i-46chroni-pou-katigorite-gia-ton-emprismo-tis-marfin.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "«Οι αστυνομικοί δεν ενήργησαν σωστά στο Άργος»",
-      "url": "https://www.news.gr/politikh/article/4175450/chrisocho%ce%90dis-i-astinomia-echi-apostoli-na-sillamvani-dolofonous-ochi-na-skotoni-pedia-ti-ipe-gia-tis-sillipsis-gia-ti-marfin.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "«Υπεύθυνοι αξιωματικοί, έχουν βάλει την υπογραφή τους κάτω από συγκεκριμένα συμπεράσματα»",
-      "url": "https://www.news.gr/politikh/article/4176569/chrisocho%ce%90dis-gia-marfin-to-iliko-ipirche-alla-den-iche-axiopiithi-opos-eprepe.html",
       "published": ""
     },
     {
@@ -1011,55 +906,6 @@
       "published": ""
     },
     {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Έντυπη Έκδοση Βεβηλώνοντας τη Μαρφίν Η Ζωή Κωνσταντοπούλου, εμφανίστηκε χθες στον τηλεοπτικό σταθμό Σκάι, όπου επανέφερε στοιχεία των εξαγγελιών για τα οικονομικά του Αλέξη Τσίπρα πριν γίνει κυβέρνηση – το νόμισμα δεν είναι φετίχ («δεν υπερασπιζόμαστε τον δογματισμό των νομισμάτων») – ή για την αλλαγή που η ίδια υπόσχεται (ο Τσίπρας θα άλλαζε την Ευρώπη, η πρόεδρος με τις καρδούλες […] Κανέλλης Ηλίας Πρώτη Δημοσιεύση: 28/03/2025 01:00",
-      "url": "https://www.tanea.gr/print/2025/03/28/opinions/vevilonontas-ti-marfin/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Έντυπη Έκδοση Η αριστερή λήθη της Μαρφίν Είμαι περίεργος να δω σήμερα τις ανακοινώσεις των αριστερών κομμάτων για την επέτειο των 15 χρόνων από το έγκλημα της Μαρφίν, την πυρπόληση του υποκαταστήματος της τράπεζας από οργανωμένη ομάδα κουκουλοφόρων οι οποίοι βγήκαν μέσα από την πρώτη μεγάλη αντιμνημονιακή διαδήλωση και τον θάνατο τριών νέων εργαζομένων: της Αγγελικής Παπαθανασοπούλου, της Παρασκευής Ζούλια και του […] Πρώτη Δημοσιεύση: 05/05/2025 01:00",
-      "url": "https://www.tanea.gr/print/2025/05/05/greece/i-aristeri-lithi-tis-marfin/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Έντυπη Έκδοση Η σύγκριση της Μαρφίν Η υποκριτική στάση της Αριστεράς στο θέμα των Τεμπών, όπου εργαλειοποιείται ο πόνος, είναι ευκαιριακή – όπως ευκαιριακή είναι συστηματικά η πολιτική της σε όλα τα ζητήματα, είναι άλλωστε και ο βασικός λόγος για την αποτυχία της κυβερνητικής θητείας της το διάστημα 2015-2019. Κι αυτό φαίνεται από τον τρόπο που η Αριστερά αντιμετωπίζει τους νεκρούς […] Πρώτη Δημοσιεύση: 20/02/2025 01:00",
-      "url": "https://www.tanea.gr/print/2025/02/20/greece/i-sygkrisi-tis-marfincr/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Έντυπη Έκδοση Θα βρεθούν οι δολοφόνοι της Μαρφίν; Μεθαύριο, στις 5 Μαΐου, συμπληρώνονται δώδεκα χρόνια από τον εμπρησμό του τραπεζικού καταστήματος της Μαρφίν, στην οδό Σταδίου, και του θανάτου των τριών υπαλλήλων της, της Αγγελικής Παπαθανασοπούλου, της Παρασκευής Ζούλια και του Επαμεινώνδα Τσάκαλη. Η πολιτεία, με μεγάλη καθυστέρηση, τους τιμά κάθε χρόνο, αν και το μνημείο στη μνήμη τους βανδαλίστηκε πριν από μερικούς […] Κανέλλης Ηλίας Πρώτη Δημοσιεύση: 03/05/2022 05:00",
-      "url": "https://www.tanea.gr/print/2022/05/03/greece/tha-vrethoun-oi-dolofonoi-tis-marfin/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Έντυπη Έκδοση Μαρφίν: πριν τις μετα-αλήθειες Η χθεσινή ανακοίνωση του ΣΥΡΙΖΑ, που ζητάει την παραίτηση του Μιχάλη Χρυσοχοΐδη επειδή δεν έχει συλλάβει τους δολοφόνους της Μαρφίν, είναι μνημείο θράσους. Και ένδειξη ότι η πολιτική, μάλιστα σε χώρους που στο παρελθόν επικαλούνταν μια τεράστια παράδοση ιδεών της χειραφέτησης κι οι οποίοι ακόμα διακηρύσσουν ότι εκπροσωπούν τα λαϊκά συμφέροντα, είναι πλέον ισοδύναμη τρολαρίσματος. […] Κανέλλης Ηλίας Πρώτη Δημοσιεύση: 06/05/2025 01:00",
-      "url": "https://www.tanea.gr/print/2025/05/06/opinions/marfin-prin-tis-meta-alitheies/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Έντυπη Έκδοση Να θυμάσαι τη Μαρφίν Η προφυλάκιση των δύο κατηγορούμενων για τη δολοφονία του δημοσιογράφου Γιώργου Καραϊβάζ στερεί από την Αριστερά ένα από τα «επιχειρήματά» της κατά της δήθεν αυταρχικής κυβέρνησης Μητσοτάκη που δήθεν φαλκιδεύει την ελευθερία του Τύπου. Αποδείχτηκε ότι οι διωκτικές αρχές ερευνούσαν και, όταν έκριναν ότι έχουν «δέσει» την υπόθεση, προχώρησαν σε συλλήψεις. Ηδη, η ΕΣΗΕΑ (που […] Κανέλλης Ηλίας Πρώτη Δημοσιεύση: 05/05/2023 05:00",
-      "url": "https://www.tanea.gr/print/2023/05/05/opinions/na-thymasai-ti-marfin/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Έντυπη Έκδοση Οι ανοιχτές πληγές της Μαρφίν Πάνε 12 χρόνια από τότε που, στις 5 Μαΐου 2010, μια ομάδα κουκουλοφόρων, φωνάζοντας «φωτιά στους πλούσιους», λαμπάδιασε με μολότοφ το κτίριο της οδού Σταδίου 23 με αποτέλεσμα να καούν ζωντανοί τρεις υπάλληλοι της Μαρφίν. Ηταν ένα ηχηρό προειδοποιητικό μήνυμα για το τι επρόκειτο να ακολουθήσει καθώς ανεξέλεγκτοι «αγανακτισμένοι» κάθε χρώματος πολιορκούσαν τη Βουλή των […] Μειμάρογλου Γιάννης Πρώτη Δημοσιεύση: 05/05/2022 05:00",
-      "url": "https://www.tanea.gr/print/2022/05/05/opinions/oi-anoixtes-pliges-tis-marfin/",
-      "published": ""
-    },
-    {
       "source": "newsit",
       "keyword": "Μαρφίν",
       "title": "Έσπασαν με ρόπαλα για πολλοστή φορά το μνημείο των θυμάτων της Μαρφίν - Το αποκαθιστά άμεσα ο δήμος Αθηναίων",
@@ -1074,24 +920,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Απολογούνται την Τρίτη",
-      "url": "https://www.news.gr/ellada/article/4175955/emprismos-marfin-gia-ischna-stichia-miloun-i-sinigori-iperaspisis-ton-katigoroumenon.html",
-      "published": ""
-    },
-    {
       "source": "debater",
       "keyword": "Marfin",
       "title": "Από τη ΓΑΔΑ, σε εισαγγελέα και ανακριτή η 46χρονη που κατηγορείται για τον φονικό εμπρησμό στη Marfin",
       "url": "https://debater.gr/ellada/se-eisaggelea-kai-anakriti-i-46chroni-poy-katigoreitai-gia-ton-foniko-emprismo-sti-marfin/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Απόψεις, Σχόλια & Γνώμες 2 Εγκλημα στη Μαρφίν: Διαβάζοντας τη Χάνα Οι πρόσφατες εξελίξεις για την υπόθεση της μαζικής δολοφονίας των εργαζομένων στη Μαρφίν αποτέλεσαν την αφορμή για τις σκέψεις που ακολουθούν. Με δύο μάλιστα πτυχές: α) Τι είδους έγκλημα διαπράχθηκε στη Μαρφίν; β) Πώς το αντιμετωπίζουμε ως οργανωμένη κοινωνία; Ως προς το είδος του εγκλήματος: δεν ήταν ένα έγκλημα με τα συνήθη κίνητρα του προσωπικού […] Κώστας Κούρκουλος Πρώτη Δημοσιεύση: 18/08/2026 18:15",
-      "url": "https://www.tanea.gr/print/2026/08/18/opinions/egklima-sti-marfin-diavazontas-ti-xana/",
       "published": ""
     },
     {
@@ -1159,51 +991,9 @@
     },
     {
       "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Αφήστε ένα Σχόλιο στο Εκδήλωση: 16 χρόνια μετά, να ξανά μιλήσουμε για τη Μαρφίν",
-      "url": "https://thepressproject.gr/ekdilosi-16-chronia-meta-na-xana-milisoume-gia-ti-marfin/#respond",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Αφήστε ένα Σχόλιο στο Κώστας Παπαδάκης: «Η πρόσφατη ανακίνηση της υπόθεσης Μαρφίν δεν είναι ούτε η πρώτη, ούτε ασφαλώς η τελευταία αστυνομική και πολιτική σκευωρία»",
-      "url": "https://thepressproject.gr/kostas-papadakis-i-prosfati-anakinisi-tis-ypothesis-marfin-den-einai-oute-i-proti-oute-asfalos-i-teleftaia-astynomiki-kai-politiki-skevoria/#respond",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Αφήστε ένα Σχόλιο στο Μαρφίν: Κι όμως, ο εμπαιγμός των συγγενών των θυμάτων, συνεχίζεται!",
-      "url": "https://thepressproject.gr/marfin-ki-omos-o-ebaigmos-ton-syngenon-ton-thymaton-synechizetai/#respond",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Αφήστε ένα Σχόλιο στο Μαρφίν: Προθεσμία έλαβαν οι τρεις κατηγορούμενοι για τις απολογίες τους μετά την αναβάθμιση του κατηγορητηρίου – Καταστολή και κρότου λάμψης στους αλληλέγγυους",
-      "url": "https://thepressproject.gr/marfin-prothesmia-elavan-oi-treis-katigoroumenoi-gia-tis-apologies-tous-meta-tin-anavathmisi-tou-katigoritiriou-katastoli-kai-krotou-lampsis-stous-allilengyous/#respond",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Αφήστε ένα Σχόλιο στο Στέλεχος της ΝΔ κατά Καρυστιανού: «Για το Μάτι και τη Μαρφίν δε λέτε» – «Αισχρή επίθεση προς το πρόσωπό μας», απαντά",
-      "url": "https://thepressproject.gr/stelechos-tis-nd-kata-karystianou-gia-to-mati-kai-ti-marfin-de-lete-aischri-epithesi-pros-to-prosopo-mas-apanta/#respond",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
       "keyword": "Marfin",
       "title": "Αφήστε ένα Σχόλιο στο Συλληφθείς για τη Marfin: «16 χρόνια μετά καλούμαι να αποδείξω ότι δεν είμαι ελέφαντας. Ας τα πάρουμε από την αρχή»",
       "url": "https://thepressproject.gr/syllifthentas-gia-ti-marfin-16-chronia-meta-kaloumai-na-apodeixo-oti-den-eimai-elefantas-as-ta-paroume-apo-tin-archi/#respond",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Αφήστε ένα Σχόλιο στο Το υπουργείο απαντά – επιβεβαιώνοντας τον εμπαιγμό των συγγενών θυμάτων της Μαρφίν",
-      "url": "https://thepressproject.gr/to-ypourgeio-apanta-epivevaionontas-ton-ebaigmo-ton-syngenon-thymaton-tis-marfin/#respond",
       "published": ""
     },
     {
@@ -1229,30 +1019,9 @@
     },
     {
       "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Αφήστε ένα Σχόλιο στο ΦΑΡΜΑ ΤΩΝ ΖΩΩΝ – 10/7/2026: Α.Τ Ομόνοιας, Μαρφίν, Άργος, Ακρίβεια, ΣΥΡΙΖΑ",
-      "url": "https://thepressproject.gr/farma-ton-zoon-10-7-2026-a-t-omonoias-marfin-argos-akriveia-syriza/#respond",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Αφήστε ένα Σχόλιο στο ΦΑΡΜΑ ΤΩΝ ΖΩΩΝ – 13/10/2026: Eurostat, Β.Μάγγος, Μαρφίν, Γκίλφοϊλ, Μότορ Όιλ, Στέγαση",
-      "url": "https://thepressproject.gr/farma-ton-zoon-13-10-2026-eurostat-v-mangos-marfin-gkilfoil-motor-oil-stegasi/#respond",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
       "keyword": "υπόθεση Marfin",
       "title": "Αφήστε ένα Σχόλιο στο Χρ. Ράμμος για την υπόθεση Marfin: «Να τηρηθεί το τεκμήριο αθωότητας»",
       "url": "https://thepressproject.gr/chr-rammos-gia-tin-ypothesi-marfin-na-tirithei-to-tekmirio-athootitas/#respond",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Αφήστε ένα Σχόλιο στο Χυδαία επίθεση στελέχους της ΝΔ στη Μαρία Καρυστιανού: «Τι έχετε κάνει και πει για τη μάνα του Αξαρλιάν, τα θύματα της Μαρφίν και του Ματιού;»",
-      "url": "https://thepressproject.gr/chydaia-epithesi-stelechous-tis-nd-sti-maria-karystianou-ti-echete-kanei-kai-pei-gia-ti-mana-tou-axarlian-ta-thymata-tis-marfin-kai-tou-matiou/#respond",
       "published": ""
     },
     {
@@ -1263,31 +1032,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Γιατί άνοιξε ξανά η υπόθεση, που ανέλαβε πλέον το Τμήμα Ανθρωποκτονιών του «ελληνικού FBI»",
-      "url": "https://www.news.gr/ellada/article/4174751/i-episimi-anakinosi-tis-el-as-gia-ti-sillipsi-ton-dio-42chronon-pou-katigorounte-gia-ton-foniko-emprismo-tis-marfin-to-maio-tou-2010.html",
-      "published": ""
-    },
-    {
       "source": "debater",
       "keyword": "Μαρφίν",
       "title": "Δένδιας: “Δεκαπέντε χρόνια από το έγκλημα του εμπρησμού της Μαρφίν”",
       "url": "https://debater.gr/politiki/dendias-dekapente-chronia-apo-to-egklima-tou-emprismou-tis-marfin/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Μαρφίν",
-      "title": "Δίκη Μαρφίν: Συγκινεί η κατάθεση του πατέρα της νεκρής εγκύου",
-      "url": "https://www.news.gr/ellada/koinonia/article/59510/dikh-marfin-sygkinei-h-katathesh-toy-patera-ths-ne.html",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Δικαιοσύνη Marfin: Προφυλακιστέοι οι δύο συλληφθέντες – Αρνούνται ότι σχετίζονται με τα επεισόδια στην τράπεζα Επιμένουν ότι δεν συμμετείχαν στη φονική επίθεση Μίνα Μουστάκα 14/07/2026 18:46",
-      "url": "https://www.tanea.gr/2026/07/14/greece/law/prosorina-kratoumenoi-krithikan-oi-dyo-42xronoi-katigoroumenoi-gia-ton-emprismo-tis-marfin/",
       "published": ""
     },
     {
@@ -1302,279 +1050,6 @@
       "keyword": "Marfin",
       "title": "Δύο συλλήψεις για τον εμπρησμό στη Marfin",
       "url": "https://www.naftemporiki.gr/video/dyo-syllipseis-gia-ton-emprismo-sti-marfin/",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Εκδήλωση: 16 χρόνια μετά, να ξανά μιλήσουμε για τη Μαρφίν",
-      "url": "https://thepressproject.gr/ekdilosi-16-chronia-meta-na-xana-milisoume-gia-ti-marfin/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα 12 Marfin: Αυτό είναι το email που κατονομάζει τους συλληφθέντες – Τι αναφέρουν δικαστικές πηγές Το φωτογραφικό υλικό και οι μαρτυρίες που οδήγησαν τις εξελίξεις, με τις Αρχές να αναζητούν δύο ακόμη άνδρες που εμπλέκονται στην υπόθεση 14/07/2026 21:15",
-      "url": "https://www.tanea.gr/2026/07/14/greece/marfin-ayto-einai-to-email-pou-katonomazei-tous-syllifthentes-ti-anaferoun-dikastikes-piges/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα 2 Marfin: «Στις φωτογραφίες δεν είναι η εντολέας μου, είχε εξεταστεί και το 2022» – Τι λέει ο δικηγόρος της 46χρονης κατηγορούμενης Την πλήρη αμφισβήτηση των στοιχείων που, σύμφωνα με την αστυνομία, συνδέουν τη 46χρονη κατηγορούμενη με την επίθεση στη Marfin, εξέφρασε ο συνήγορός της Κώστας Παπαδάκης, σε δηλώσεις του σε εκπομπήτης ΕΡΤ. Ο δικηγόρος υποστήριξε ότι δεν υπάρχει ταυτοποίηση της εντολέως του, αλλά μόνο «περιορισμένη προσομοίωση» σε εργαστηριακή εξέταση. Αποκάλυψε επίσης ότι η ίδια είχε εξεταστεί […] 08/08/2026 09:02",
-      "url": "https://www.tanea.gr/2026/08/08/greece/marfin-stis-fotografies-den-einai-i-entoleas-mou-eixe-eksetastei-kai-to-2022-ti-leei-o-dikigoros-46xronis-katigoroumenis/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα 2 «Μέσα ήταν πίσσα, σκοτάδι· ο καπνός σαν να τον κόβεις με το μαχαίρι» – Τι είπε η επιζήσασα της Marfin Μαρία Καραγιάννη στα «ΝΕΑ» Η επιζήσασα του εμπρησμού της Marfin μιλάει στα «ΝΕΑ» για τη μοιραία 5η Μαΐου του 2010 και τις πρόσφατες εξελίξεις στην υπόθεση Γιώργος Σχοινάς Πρώτη Δημοσιεύση: 18/07/2026 18:00",
-      "url": "https://www.tanea.gr/print/2026/07/18/greece/mesa-itan-pissa-skotadi%c2%b7-o-kapnos-san-na-ton-koveis-me-to-maxairi/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "υπόθεση Marfin",
-      "title": "Ελλάδα 3 Υπόθεση Marfin: Στο «κάδρο» ακόμη τρεις ύποπτοι – Φωτογραφίες διακοπών πρόδωσαν τους συλληφθέντες Νέα στοιχεία έρχονται στο φως για την υπόθεση της φονικής επίθεσης στη Marfin τον Μάιο του 2010 11/07/2026 22:15",
-      "url": "https://www.tanea.gr/2026/07/11/greece/ypothesi-marfin-sto-kadro-akomi-treis-ypoptoi-poios-o-rolos-toys-sti-foniki-epithesi/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα 3 Υπόθεση Marfin: Τον αποστολέα του ανώνυμου μηνύματος αναζητά η δικαιοσύνη Στην ανακρίτρια δήλωσαν παράσταση υποστήριξης κατηγορίας οι συγγενείς της Αγγελικής Παπαθανασοπούλου Μίνα Μουστάκα 15/07/2026 16:00",
-      "url": "https://www.tanea.gr/2026/07/15/greece/ypothesi-marfin-ton-apostolea-tou-anonymou-minymatos-anazita-i-dikaiosyni/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα 4 Marfin: «Τα ντοκουμέντα αυτά έχουν δοθεί από το ίδιο απόγευμα» – Γιατί χρειάστηκε 16 χρόνια η ανάλυση 200 φωτογραφιών Τι λέει ο δημοσιογράφος Ηλίας Προβόπουλος που τράβηξε με την φωτογραφική του μηχανή και παρέδωσε από την πρώτη στιγμή το οπτικό υλικό στις Αρχές 16/07/2026 21:15",
-      "url": "https://www.tanea.gr/2026/07/16/greece/marfin-ta-ntokoumenta-ayta-exoun-dothei-apo-to-idio-apogeyma-giati-xreiastike-16-xronia-i-analysi-200-fotografion/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα 4 Marfin: Τρομοκρατική πράξη χαρακτηρίζεται η επίθεση – Σε συμπληρωματική απολογία αύριο οι τρεις κατηγορούμενοι Και οι τρεις εξακολουθούν να αρνούνται το βαρύ κατηγορητήριο - Αναμένεται να πάρουν προθεσμία Μίνα Μουστάκα 12/10/2026 14:58",
-      "url": "https://www.tanea.gr/2026/10/12/greece/marfin-tromokratiki-praksi-xaraktirizetai-i-epithesi-se-sympliromatiki-apologia-ayrio-oi-treis-katigoroumenoi/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "υπόθεση Marfin",
-      "title": "Ελλάδα 4 Υπόθεση Marfin: Τι υποστηρίζουν η δικηγόρος και συγγενείς των συλληφθέντων – Ξεσπούν οι επιζώντες Για ανυπόστατη δικογραφία κάνει λόγο η δικηγόρος Άννα Παπαρρούσου - Πότε απολογούνται οι συλληφθέντες 11/07/2026 17:13",
-      "url": "https://www.tanea.gr/2026/07/11/greece/ypothesi-marfin-ti-ypostirizoun-i-dikigoros-kai-syggeneis-ton-syllifthenton-ksespoun-oi-epizontes/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: H ΕΛ.ΑΣ. αναζητά και άλλα πρόσωπα που εμπλέκονται «κρυμμένα» στα ψηφιακά πειστήρια Ο υπουργός Προστασίας του Πολίτη, Μιχάλης Χρυσοχοΐδης, μιλώντας στην εφημερίδα «Τα Νέα Σαββατοκύριακο» υποστήριξε ότι «είναι \"δεμένη\" η υπόθεση» 18/07/2026 23:40",
-      "url": "https://www.tanea.gr/2026/07/18/greece/marfin-h-el-as-anazita-kai-alla-prosopa-poy-emplekontai-krymmena-sta-psifiaka-peistiria/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Tην Τρίτη απολογείται η 46χρονη που κατηγορείται για την φονική επίθεση Tην Τρίτη το πρωί απολογείται η 46χρονη, η οποία κατηγορείται για την υπόθεση της Marfin. Κατά την προαγωγή της στα δικαστήρια της πρώην σχολής Ευελπίδων είχαν ληφθεί δρακόντεια μέτρα ασφαλείας, ενώ έξω από τα ανακριτικά γραφεία, ήταν συγκεντρωμένοι αλληλέγγυοι οι οποίοι φώναζαν συνθήματα υπέρ της κατηγορούμενης. Νωρίτερα, η 46 χρονη είχε οδηγηθεί στην Εισαγγελία Εφετών […] Μίνα Μουστάκα 07/08/2026 11:46",
-      "url": "https://www.tanea.gr/2026/08/07/greece/marfin-tin-triti-apologeitai-i-46xroni-pou-katigoreitai-gia-tin-foniki-epithesi/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: «Δεν υπάρχει ταυτοποίηση προσώπων, έχουμε ένα mail το οποίο είναι αστείο» Ο Θανάσης Καμπαγιάννης, δικηγόρος του ενός κατηγορούμενου, δήλωσε στο MEGA ότι δεν υπάρχουν επαρκή στοιχεία 15/07/2026 08:29",
-      "url": "https://www.tanea.gr/2026/07/15/greece/marfin-den-yparxei-taytopoiisi-prosopon-exoume-ena-mail-to-opoio-einai-asteio-ti-dilonei-o-dikigoros-tou-enos-katigoroumenou/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Άνοιξε ο κύκλος των συμπληρωματικών απολογιών – Πίσω στη φυλακή οι δύο κατηγορούμενοι, την Παρασκευή απολογείται ο τρίτος Τον δρόμο για τη φυλακή, εκεί που παραμένουν προσωρινά κρατούμενοι, πήραν μετά το τέλος των συμπληρωματικών απολογιών του οι δύο κατηγορούμενοι για τον εμπρησμό της τράπεζας Marfin το 2010, που είχε ως αποτέλεσμα το θάνατο τριών εργαζόμενων, εκ των οποίων η μία ήταν έγκυος. Και οι δύο απολογήθηκαν ενώπιον της 3ης τακτικής ανακρίτριας κάτω από […] Μίνα Μουστάκα 21/10/2026 13:37",
-      "url": "https://www.tanea.gr/2026/10/21/greece/marfin-anoikse-o-kyklos-ton-sympliromatikon-apologion-piso-sti-fylaki-oi-dyo-katigoroumenoi-tin-paraskeyi-apologeitai-o-tritos/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Αποκαλυπτικό βίντεο ντοκουμέντο από τη στιγμή της δολοφονικής επίθεσης Στο βίντεο καταγράφονται οι δραματικές στιγμές που εκτυλίχθηκαν στο υποκατάστημα της Marfin στην οδό Σταδίου 16/07/2026 20:35",
-      "url": "https://www.tanea.gr/2026/07/16/greece/marfin-vinteo-ntokoumento-apo-ti-stigmis-tis-dolofonikis-empristikis-epithesis/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Απολογείται η 46χρονη αρνούμενη κάθε σχέση με τη φονική επίθεση (video) Με απόλυτη άρνηση της κατηγορίας που της αποδίδει ρόλο στη φονική εμπρηστική επίθεση στην Marfin και αμφισβητώντας τα στοιχεία που την φέρνουν ενώπιον της Δικαιοσύνης, απολογείται σήμερα η 46χρονη κατηγορούμενη για τους τρεις θανάτους στο φλεγόμενο κτίριο της οδού Σταδίου πριν από 16 χρόνια. Στην Ευελπίδων οδηγείται η 46χρονη   Στη γυναίκα, αποδίδεται παρουσία με ρόλο […] 11/08/2026 08:33",
-      "url": "https://www.tanea.gr/2026/08/11/greece/marfin-apologeitai-simera-i-46xroni-arnoumeni-kathe-sxesi-me-ti-foniki-epithesi/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Απολογείται την Τρίτη η 46χρονη που κατηγορείται για την εμπλοκή της στον φονικό εμπρησμό – «Είναι αθώα» λέει ο συνήγορός της Έξω από τα ανακριτικά γραφεία, συγκεντρώθηκαν αλληλέγγυοι φωνάζοντας συνθήματα υπέρ της κατηγορούμενης 07/08/2026 10:22",
-      "url": "https://www.tanea.gr/2026/08/07/greece/marfin-apologeitai-tin-triti-i-46xroni-pou-katigoreitai-gia-ton-foniko-emprismo-ypo-drakonteia-metra-stin-eyelpidon/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Επέστρεψε στη φυλακή και ο τρίτος κατηγορούμενος – «Δεν έχω καμία σχέση με τα επεισόδια» Στη φυλακή που κρατείται προσωρινά επέστρεψε και ο τρίτος κατηγορούμενος για την υπόθεση έκρηξης της τράπεζας Marfin το 2010. Τόσο ο ίδιος, όσο και οι δύο συγκατηγορούμενοί του είχαν κληθεί να απολογηθούν συμπληρωματικά μετά τις νέες διώξεις που τους είχαν ασκηθεί με βάση τον αντιτρομοκρατικό νόμο, για ανθρωποκτονία στο πλαίσιο τρομοκρατικής ενέργειας και απόπειρα ανθρωποκτονίας […] Μίνα Μουστάκα 23/10/2026 14:20",
-      "url": "https://www.tanea.gr/2026/10/23/greece/marfin-epestrepse-sti-fylaki-kai-o-tritos-katigoroumenos-den-exo-kamia-sxesi-me-ta-epeisodia/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Η έκθεση 117 σελίδων της ΔΕΕ που οδήγησε στην ταυτοποίηση των τριών υπόπτων Η Διεύθυνση Εγκληματολογικών Ερευνών, με τεχνική έκθεση 117 σελίδων, ταυτοποίησε τρία άτομα ως υπεύθυνα για τον εμπρησμό της Marfin TANEA Newsroom 16/07/2026 10:52",
-      "url": "https://www.tanea.gr/2026/07/16/greece/marfin-i-ekthesi-117-selidon-tis-dee-pou-odigise-stin-taytopoiisi-ton-trion-ypopton/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Η συγκλονιστική μαρτυρία του φωτορεπόρτερ που κατέγραψε την τραγωδία – «Ήταν σαν ομάδα εκτελεστών» Μια συγκλονιστική μαρτυρία φέρνει στο φως τις εφιαλτικές στιγμές της τραγωδίας στη Marfin 14/07/2026 22:37",
-      "url": "https://www.tanea.gr/2026/07/14/greece/marfin-i-sygklonistiki-martyria-toy-fotoreporter-poy-kategrapse-tin-tragodia-itan-san-omad/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Θα αναζητήσουν τον αποστολέα του email Για να εξεταστεί  ως μάρτυρας στον νέο κύκλο της δικαστικής έρευνας Μίνα Μουστάκα Πρώτη Δημοσιεύση: 16/07/2026 15:17",
-      "url": "https://www.tanea.gr/print/2026/07/16/greece/tha-anazitisouncrton-apostolea-tou-email/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Οι φωτογραφίες που «ταυτοποίησαν» τους κατηγορούμενους Τα ΝΕΑ αποκαλύπτουν το ακριβές τελικό «σαφές» συμπέρασμα του πολυσέλιδου εγγράφου της ΕΛ.ΑΣ. που οδήγησε στις συλλήψεις και τις προφυλακίσεις Βασίλης Λαμπρόπουλος Πρώτη Δημοσιεύση: 16/07/2026 15:21",
-      "url": "https://www.tanea.gr/print/2026/07/16/greece/oi-fotografies-pou-taytopoiisan-tous-katigoroumenous/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Παραμένει στη φυλακή η 46χρονη – Απορρίφθηκε η προσφυγή κατά του εντάλματος προσωρινής κράτησης Η 46χρονη κατηγορούμενη για την υπόθεση της Marfin, είχε καταθέσει προσφυγή κατά της προφυλάκισής της 30/09/2026 17:12",
-      "url": "https://www.tanea.gr/2026/09/30/greece/marfin-paramenei-sti-fylaki-i-46xroni-aporrifthike-i-prosfygi-kata-tou-entalmatos-prosorinis-kratisis/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Προσφυγή κατά της προσωρινής κράτησης της 46χρονης – «Ανύπαρκτα τα στοιχεία σε βάρος της» λέει ο δικηγόρος της Προσφυγή κατά του εντάλματος προσωρινής κράτησης της 46χρονης κατηγορούμενης για την υπόθεση Marfin κατατέθηκε σήμερα (14/08), σύμφωνα με τον συνήγορο υπεράσπισής της, Κώστα Παπαδάκη. Όπως αναφέρει ο κ. Παπαδάκης, η κατηγορούμενη προφυλακίστηκε χωρίς η ανακρίτρια και ο εισαγγελέας που αποφάσισαν την προσωρινή της κράτηση, να λάβουν υπόψη το απαλλακτικό δεδικασμένο του 2022, την ομολογημένη από […] 14/08/2026 12:41",
-      "url": "https://www.tanea.gr/2026/08/14/greece/marfin-prosfygi-kata-tis-prosorinis-kratisis-tis-46xronis-anyparkta-ta-stoixeia-se-varos-tis-leei-o-dikigoros-tis/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Προφυλακιστέα η 46χρονη – Τι είπε στην απολογία της στην ανακρίτρια (vid) Τα στοιχεία δεν οδηγούν σε ταυτοποίηση, υποστηρίζει ο δικηγόρος της Μίνα Μουστάκα 11/08/2026 16:26",
-      "url": "https://www.tanea.gr/2026/08/11/greece/marfin-profylakistea-i-46xroni-ti-eipe-stin-apologia-tis-stin-anakritria/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Σήμερα η απολογία της 46χρονης που έφτασε από τη Βρετανία – Τα στοιχεία που την εμπλέκουν στην υπόθεση Η 46χρονη αφίχθη το βράδυ της Πέμπτης στην Ελλάδα από τη Βρετανία, συνοδεία αξιωματικών του αποκαλούμενου «ελληνικού FBI» 07/08/2026 07:30",
-      "url": "https://www.tanea.gr/2026/08/07/greece/marfin-simera-i-apologia-tis-46xronis-pou-eftase-apo-ti-vretania-ta-stoixeia-pou-tin-emplekoun-stin-ypothesi/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Στις 21 και 23 Οκτωβρίου οι απολογίες των τριών – Τι περιλαμβάνει η συμπληρωματική δίωξη Την ερχόμενη εβδομάδα θα απολογηθούν και οι τρεις κατηγορούμενοι για την υπόθεση της Marfin μετά την άσκηση συμπληρωματικής δίωξης εναντίον τους για ανθρωποκτονία από πρόθεση στο πλαίσιο τρομοκρατικών πράξεων και για απόπειρα ανθρωποκτονίας σε βάρος 24 εργαζομένων. Συγκεκριμένα, οι δύο κατηγορούμενοι πρόκειται οδηγηθούν εκ νέου στα δικαστήρια της πρώην σχολής Ευελπίδων στις 21 Οκτωβρίου ενώ […] Μίνα Μουστάκα 13/10/2026 12:02",
-      "url": "https://www.tanea.gr/2026/10/13/greece/marfin-stis-21-kai-23-oktovriou-oi-apologies-ton-trion-ti-perilamvanei-i-sympliromatiki-dioksi/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Συνεχίζονται οι έρευνες για τον αποστολέα του ανώνυμου email – Στο «μικροσκόπιο» τα βίντεο ντοκουμέντα Νέα στοιχεία σχετικά με τη φονική επίθεση στη Marfin τον Μάιο του 2010, που κόστισε τη ζωή σε τρεις εργαζομένους, φέρνει στο φως η αστυνομική έρευνα. Οι αρχές επικεντρώνονται πλέον στον εντοπισμό του αποστολέα του ανώνυμου e-mail, το οποίο αποτέλεσε την αφετηρία για την επανενεργοποίηση της υπόθεσης. Παράλληλα, αποκαλύπτονται οι μέθοδοι που οδήγησαν στην ταυτοποίηση […] 17/07/2026 09:20",
-      "url": "https://www.tanea.gr/2026/07/17/greece/marfin-synexizontai-oi-ereynes-gia-ton-apostolea-tou-anonymou-email-sto-mikroskopio-ta-vinteo-ntokoumenta/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Τα στοιχεία της δικογραφίας και τα αναπάντητα ερωτήματα Οι πρόσφατες συλλήψεις για τον εμπρησμό της Μarfin και η ποινική διαδικασία που βρίσκεται πλέον σε εξέλιξη έφεραν ξανά στο προσκήνιο τη μακρόχρονη έρευνα της Αντιτρομοκρατικής, αλλά και τη συζήτηση γύρω από τα στοιχεία της δικογραφίας και τον τρόπο με τον οποίο αξιολογήθηκαν έπειτα από χρόνια. Στο επίκεντρο του ενδιαφέροντος εξακολουθεί να παραμένει το ανώνυμο […] Ναταλία Διονυσιώτη Πρώτη Δημοσιεύση: 15/07/2026 14:35",
-      "url": "https://www.tanea.gr/print/2026/07/15/greece/ta-stoixeia-tis-dikografias-lfkai-ta-anapantita-erotimata/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Marfin: Όλο το παρασκήνιο των ερευνών – 4.000 εξετάσεις οπτικού υλικού από τη νέα υπηρεσία «κλειδί» της ΕΛ.ΑΣ. Στο μικροσκόπιο 500 εμπρησμοί πριν και μέτα την τραγωδία Βασίλης Γ. Λαμπρόπουλος Πρώτη Δημοσιεύση: 18/07/2026 14:00",
-      "url": "https://www.tanea.gr/print/2026/07/18/greece/olo-to-paraskinio-ton-ereynon/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Στις φυλακές Ναυπλίου και Μαλανδρίνου οι προφυλακιστέοι για την υπόθεση της Marfin Στις φυλακές Ναυπλίου και Μαλανδρίνου μεταφέρθηκαν οι δύο 42χρονοι, προσωρινά κρατούμενοι για την τραγωδία της Marfin πριν 16 χρόνια TANEA Newsroom 15/07/2026 13:16",
-      "url": "https://www.tanea.gr/2026/07/15/greece/stis-fylakes-naypliou-kai-malandrinou-oi-profylakisteoi-gia-tin-ypothesi-tis-marfin/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "υπόθεση Marfin",
-      "title": "Ελλάδα Υπόθεση Marfin: 14χρόνια μετά, ο Άρειος Πάγος ρίχνει ευθύνες στην τράπεζα για τους 3 νεκρούς Στην τράπεζα επιρρίπτει ευθύνες ο Άρειος Πάγος με απόφασή του, σχετικά με τα τρία άτομα που έχασαν τη ζωή τους στη Marfin το 2010 12/12/2024 12:27",
-      "url": "https://www.tanea.gr/2024/12/12/greece/ypothesi-marfin-14xronia-meta-o-areios-pagos-rixnei-eythynes-stin-trapeza-gia-tous-3-nekrous/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Υπόθεση Marfin: «Η δημοσιότητα ασκεί πίεση» – Τι λένε οι συνήγοροι της 46χρονης για την προφυλάκισή της και το ρόλο της Δικαιοσύνης Ο κ. Καραγιάννης επισημαίνει ότι η δημόσια γνώμη μπορεί να επηρεάσει την πορεία της δικαιοσύνης 12/08/2026 09:28",
-      "url": "https://www.tanea.gr/2026/08/12/greece/marfin-profylakistike-i-46xroni-i-dimosiotita-askei-piesi-lene-oi-synigoroi-tis/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Υπόθεση Marfin: «Να παραμείνει στη φυλακή η 46χρονη» εισηγείται ο εισαγγελέας – Τι υποστηρίζει ο δικηγόρος της Να παραμείνει στη φυλακή και να απορριφθεί η προσφυγή που κατέθεσε η 46χρονη η οποία έχει κριθεί προσωρινά κρατούμενη για την υπόθεση της Μarfin, εισηγείται προς το δικαστικό συμβούλιο που έχει και τον τελευταίο λόγο για το αίτημα της κατηγορουμένης. Ο συνήγορος υπεράσπισης της κατηγορουμένης, η οποία αρνείται οποιαδήποτε εμπλοκή στην υπόθεση, Κώστας Παπαδάκης σε […] 04/09/2026 10:12",
-      "url": "https://www.tanea.gr/2026/09/04/greece/ypothesi-marfin-na-parameinei-sti-fylaki-i-46xroni-eisigeitai-o-eisaggeleas-ti-ypostirizei-o-dikigoros-tis/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Υπόθεση Marfin: Αναβαθμίστηκε το κατηγορητήριο για τους τρεις προφυλακισμένους Τι αλλάζει 13/10/2026 08:05",
-      "url": "https://www.tanea.gr/2026/10/13/greece/ypothesi-marfin-anavathmistike-to-katigoritirio-gia-tous-treis-profylakismenous/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Υπόθεση Marfin: Από το αεροδρόμιο στη ΓΑΔΑ οδηγήθηκε η 46χρονη – Την Παρασκευή πάει στον εισαγγελέα Η 46χρονη, που ταυτοποιήθηκε από τις Αρχές, συνελήφθη στην Αγγλία και επέστρεψε συνοδεία αστυνομικών αεροπορικώς απόψε στην Ελλάδα. 06/08/2026 23:01",
-      "url": "https://www.tanea.gr/2026/08/06/greece/ypothesi-marfin-apo-to-aerodromio-sti-gada-odigithike-i-46xroni-katigoroumeni-tin-paraskeyi-paei-ston-eisaggelea/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "υπόθεση Marfin",
-      "title": "Ελλάδα Υπόθεση Marfin: Οι φωτογραφίες που οδήγησαν στην ταυτοποίηση των υπόπτων – Το σακίδιο, το κόκκινο μαντήλι και το ανοιχτόχρωμο καπέλο Οι φωτογραφίες από το 2010 και τα ευρήματα της έρευνας φέρονται να έπαιξαν καθοριστικό ρόλο στην ταυτοποίηση των τριών συλληφθέντων για τη Marfin 13/07/2026 22:19",
-      "url": "https://www.tanea.gr/2026/07/13/greece/ypothesi-marfin-oi-fotografies-poy-prodosan-toys-3-syllifthentes-to-sakidio-kai-to-kokkino/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Υπόθεση Marfin: Στη Βρετανία κλιμάκιο του ελληνικού FBI – Απόψε στην Αθήνα η 46χρονη κατηγορούμενη Ραγδαίες είναι οι εξελίξεις στην υπόθεση της φονικής επίθεσης στη Marfin, καθώς κλιμάκιο του ελληνικού FBI μεταβαίνει σήμερα, Πέμπτη (6/8), στη Μεγάλη Βρετανία για να παραλάβει την 46χρονη που συνελήφθη με βάση διεθνές ένταλμα σύλληψης. Η γυναίκα, η οποία κατηγορείται για συμμετοχή στον εμπρησμό της τράπεζας τον Μάιο του 2010 (αρνείται μέχρι και σήμερα την […] 06/08/2026 07:43",
-      "url": "https://www.tanea.gr/2026/08/06/greece/ypothesi-marfin-sti-vretania-klimakio-tou-ellinikou-fbi-apopse-stin-athina-i-46xroni-katigoroumeni/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Υπόθεση Marfin: Στην Ελλάδα επιστρέφει την Πέμπτη η 46χρονη κατηγορούμενη – Την Παρασκευή ενώπιον του εισαγγελέα Κλιμάκιο της Διεύθυνσης Αντιμετώπισης Οργανωμένου Εγκλήματος βρίσκεται στη Βρετανία για να παραλάβει την 46χρονη που κατηγορείται για την υπόθεση της Marfin. Τα στελέχη του ελληνικού FBI αναμένεται να επιστρέψουν με τη 46χρονη, η οποία κατηγορείται για συμμετοχή στην εγκληματική ενέργεια του 2010 που κόστισε τη ζωή σε τρεις ανθρώπους. Σύμφωνα με πληροφορίες, η έκδοσή της […] 05/08/2026 20:34",
-      "url": "https://www.tanea.gr/2026/08/05/greece/ypothesi-marfin-stin-ellada-epistrefei-tin-pempti-i-46xroni-katigoroumeni-tin-paraskeyi-enopion-tou-eisaggelea/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Ελλάδα Υπόθεση Marfin: Την Τρίτη (11/8) η απολογία της 46χρονης – «Τα στοιχεία του βιντεοληπτικού υλικού είναι ανεπαρκή» Ο δικηγόρος της 46χρονης, Κώστας Παπαδάκης, μίλησε το πρωί της Δευτέρας στην εκπομπή «Κοινωνία Ώρα MEGA», ανέφερε ότι «τα στοιχεία του βιντεοληπτικού υλικού είναι ανεπαρκή», τονίζοντας ότι  «δεν υπάρχει ταυτοποίηση» 10/08/2026 08:54",
-      "url": "https://www.tanea.gr/2026/08/10/greece/ypothesi-marfin-tin-triti-11-8-i-apologia-tis-46xronis-ta-stoixeia-tou-vinteoliptikou-ylikou-einai-aneparki/",
       "published": ""
     },
     {
@@ -1610,34 +1085,6 @@
       "keyword": "Marfin",
       "title": "Εμπρησμός Marfin: Απολογείται σήμερα η 46χρονη – Αρνείται κάθε σχέση με τη φονική επίθεση",
       "url": "https://debater.gr/ellada/emprismos-marfin-apologeitai-simera-i-46chroni-arneitai-kathe-schesi-me-ti-foniki-epithesi/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Εμπρησμός Marfin: Απορρίφθηκε η προσφυγή της 46χρονης για την αποφυλάκισή της",
-      "url": "https://www.news.gr/ellada/article/4222616/emprismos-marfin-aporrifthike-i-prosfigi-tis-46chronis-gia-tin-apofilakisi-tis.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Εμπρησμός Marfin: Για «ισχνά στοιχεία» μιλούν οι συνήγοροι υπεράσπισης των κατηγορουμένων",
-      "url": "https://www.news.gr/ellada/article/4175955/emprismos-marfin-gia-ischna-stichia-miloun-i-sinigori-iperaspisis-ton-katigoroumenon.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Εμπρησμός Marfin: Επέστρεψε στη φυλακή ο τρίτος κατηγορούμενος μετά τη συμπληρωματική απολογία του",
-      "url": "https://www.news.gr/ellada/article/4238860/emprismos-marfin-epestrepse-sti-filaki-o-tritos-katigoroumenos-meta-ti-simpliromatiki-apologia-tou.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Εμπρησμός Marfin: Προφυλακίστηκε η 46χρονη μετά την απολογία της – «Συμμετείχα στη διαδήλωση, αλλά δεν έχω σχέση με τα επεισόδια»",
-      "url": "https://www.news.gr/ellada/article/4195193/emprismos-marfin-profilakistike-i-46chroni-meta-tin-apologia-tis-simmeticha-sti-diadilosi-alla-den-echo-schesi-me-ta-episodia.html",
       "published": ""
     },
     {
@@ -1760,13 +1207,6 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Εμπρησμός της «Marfin»: Προθεσμία για να απολογηθεί την Τρίτη πήρε η 46χρονη",
-      "url": "https://www.news.gr/ellada/article/4193961/emprismos-tis-marfin-prothesmia-gia-na-apologithi-tin-triti-pire-i-46chroni.html",
-      "published": ""
-    },
-    {
       "source": "debater",
       "keyword": "Marfin",
       "title": "Εμπρηστική επίθεση στη Marfin: Στο «μικροσκόπιο» το ανώνυμο email που ξεκλείδωσε την υπόθεση – Αναζητούν τον αποστολέα",
@@ -1774,45 +1214,10 @@
       "published": ""
     },
     {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Ενστάσεις Βεβηλώνοντας τη Μαρφίν Η Ζωή Κωνσταντοπούλου, εμφανίστηκε χθες στον τηλεοπτικό σταθμό Σκάι, όπου επανέφερε στοιχεία των εξαγγελιών για τα οικονομικά του Αλέξη Τσίπρα πριν γίνει κυβέρνηση – το νόμισμα δεν είναι φετίχ («δεν υπερασπιζόμαστε τον δογματισμό των νομισμάτων») – ή για την αλλαγή που η ίδια υπόσχεται (ο Τσίπρας θα άλλαζε την Ευρώπη, η πρόεδρος με τις καρδούλες […] Κανέλλης Ηλίας 28/03/2025 14:46",
-      "url": "https://www.tanea.gr/2025/03/28/opinions/vevilonontas-ti-marfin-online/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Ενστάσεις Εμπνευση, η Μαρφίν Το γράφω και το ξαναγράφω. Ενα από τα λάθη της κυβέρνησης είναι ότι αφήνει διάφορους τραμπούκους κατά της ομαλότητας της δημόσιας ζωής να κερδίζουν έδαφος και να διευρύνονται – και ενώ στην αρχή η δράση τους είναι παρονυχίδα, το κράτος αναγκάζεται να τους αντιμετωπίσει όταν αφήνουν ανοιχτές πληγές. Μια από τις πληγές αυτές είναι οι […] Ηλίας Κανέλλης Πρώτη Δημοσιεύση: 02/07/2026 17:29",
-      "url": "https://www.tanea.gr/print/2026/07/02/opinions/empneysi-i-marfin/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Ενστάσεις Μαρφίν: πριν τις μετα-αλήθειες Η χθεσινή ανακοίνωση του ΣΥΡΙΖΑ, που ζητάει την παραίτηση του Μιχάλη Χρυσοχοΐδη επειδή δεν έχει συλλάβει τους δολοφόνους της Μαρφίν, είναι μνημείο θράσους. Και ένδειξη ότι η πολιτική, μάλιστα σε χώρους που στο παρελθόν επικαλούνταν μια τεράστια παράδοση ιδεών της χειραφέτησης κι οι οποίοι ακόμα διακηρύσσουν ότι εκπροσωπούν τα λαϊκά συμφέροντα, είναι πλέον ισοδύναμη τρολαρίσματος. […] Κανέλλης Ηλίας 06/05/2025 14:59",
-      "url": "https://www.tanea.gr/2025/05/06/opinions/marfin-prin-tis-meta-alitheies-online/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Εντός 10 ημερών θα έχει προχωρήσει η υπόθεσή της",
-      "url": "https://www.news.gr/ellada/article/4176945/ne-stin-ekdosi-tis-apo-tin-vretania-stin-ellada-ipe-i-46chroni-pou-katigorite-gia-ton-emprismo-tis-marfin.html",
-      "published": ""
-    },
-    {
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "Επέστρεψε στην Ελλάδα η 46χρονη που κατηγορείται για συμμετοχή στον εμπρησμό της Marfin",
       "url": "https://www.naftemporiki.gr/society/2147703/epistrefei-stin-ellada-i-46chroni-poy-katigoreitai-gia-symmetochi-ston-emprismo-tis-marfin/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Επιμένει στην αθωωότητα της, αλλά δεν έπεισε εισαγγελέα και ανακρίτρια",
-      "url": "https://www.news.gr/ellada/article/4195193/emprismos-marfin-profilakistike-i-46chroni-meta-tin-apologia-tis-simmeticha-sti-diadilosi-alla-den-echo-schesi-me-ta-episodia.html",
       "published": ""
     },
     {
@@ -1851,38 +1256,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Η 46χρονη κατέθεσε υπόμνημα 59 σελίδων, με το οποίο επανέλαβε ότι αρνείται οποιαδήποτε σχέση με την υπόθεση",
-      "url": "https://www.news.gr/ellada/article/4237387/ipothesi-marfin-sti-filaki-epestrepsan-meta-tis-simpliromatikes-apologies-tous-dio-katigoroumeni.html",
-      "published": ""
-    },
-    {
       "source": "zougla",
       "keyword": "Μαρφίν",
       "title": "Η δολοφονία Γρηγορόπουλου, η τραγωδία Μαρφίν και η δολοφονία Φύσσα",
       "url": "https://www.zougla.gr/apopseis/i-dolofonia-grigoropoulou-i-tragodia-marfin-kai-i-dolofonia-fyssa/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Η επίσημη ανακοίνωση της ΕΛ.ΑΣ. για τη σύλληψη των δύο 42χρονων που κατηγορούνται για τον φονικό εμπρησμό της Marfin, το Μάιο του 2010",
-      "url": "https://www.news.gr/ellada/article/4174751/i-episimi-anakinosi-tis-el-as-gia-ti-sillipsi-ton-dio-42chronon-pou-katigorounte-gia-ton-foniko-emprismo-tis-marfin-to-maio-tou-2010.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Η μεταφορά της θα γίνει από κλιμάκιο της Διεύθυνσης Αντιμετώπισης Οργανωμένου Εγκλήματος",
-      "url": "https://www.news.gr/ellada/article/4192990/ipothesi-marfin-epistrefi-stin-ellada-i-46chroni-katigoroumeni-gia-ton-emprismo-pou-iche-sillifthi-sto-londino.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Η πρόεδρος της Φωνής Λογικής χαρακτήρισε άδικη την προφυλάκιση των δύο αστυνομικών που πυροβόλησαν στο κεφάλι τον 20χρονο στο Άργος",
-      "url": "https://www.news.gr/politikh/article/4177464/latinopoulou-gia-marfin-olo-afto-proerchete-apo-tin-aristeri-via-ke-tromokratia.html",
       "published": ""
     },
     {
@@ -1893,24 +1270,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Η υπεράσπιση αμφισβητεί την αξιοπιστία της δικογραφίας",
-      "url": "https://www.news.gr/ellada/article/4176315/marfin-apologounte-simera-i-dio-katigoroumeni.html",
-      "published": ""
-    },
-    {
       "source": "newsit",
       "keyword": "Marfin",
       "title": "Η ώρα της απολογίας για την 46χρονη που κατηγορείται για τον φονικό εμπρησμό της Marfin",
       "url": "https://www.newsit.gr/ellada/marfin-stin-anakritria-i-46xroni-pou-katigoreitai-gia-symmetoxi-ston-foniko-emprismo-tou-2010/4748579/",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "ΗΜΕΡΟΜΗΝΙΑ",
-      "url": "https://www.tanea.gr/search/Marfin/?orderby=date",
       "published": ""
     },
     {
@@ -1921,38 +1284,10 @@
       "published": ""
     },
     {
-      "source": "tanea",
-      "keyword": "εμπρησμός Marfin",
-      "title": "Ιστορικό Αρχείο Φονικός εμπρησμός Marfin: To ατιμώρητο έγκλημα Όσα δήλωσαν και κατέθεσαν οι αυτόπτες μάρτυρες του φονικού εμπρησμού της Marfin το 2010 05/05/2023 09:48",
-      "url": "https://www.tanea.gr/2023/05/05/istoriko-arxeio/fonikos-emprismos-marfin-to-atimorito-egklima/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Καραγιάννη, επιζήσασα της τραγωδίας της Marfin: Ζήτημα ηθικής δικαίωσης ο εντοπισμός των πραγματικών δραστών",
-      "url": "https://www.news.gr/ellada/article/4174820/karagianni-epizisasa-tis-tragodias-tis-marfin-zitima-ithikis-dikeosis-o-entopismos-ton-pragmatikon-draston.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Κατηγορούνται για απόπειρα ανθρωποκτονίας σε βάρος 24 ατόμων",
-      "url": "https://www.news.gr/ellada/article/4231321/marfin-prothesmia-gia-na-apologithoun-simpliromatika-tis-epomenes-imeres-piran-i-tris-katigoroumeni-entasi-exo-apo-ta-dikastiria.html",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
+      "source": "in",
       "keyword": "Μαρφίν",
-      "title": "Κώστας Παπαδάκης: «Η πρόσφατη ανακίνηση της υπόθεσης Μαρφίν δεν είναι ούτε η πρώτη, ούτε ασφαλώς η τελευταία αστυνομική και πολιτική σκευωρία»",
-      "url": "https://thepressproject.gr/kostas-papadakis-i-prosfati-anakinisi-tis-ypothesis-marfin-den-einai-oute-i-proti-oute-asfalos-i-teleftaia-astynomiki-kai-politiki-skevoria/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Λατινοπούλου για Marfin: «Όλο αυτό προέρχεται από την αριστερή βία και τρομοκρατία»",
-      "url": "https://www.news.gr/politikh/article/4177464/latinopoulou-gia-marfin-olo-afto-proerchete-apo-tin-aristeri-via-ke-tromokratia.html",
+      "title": "Κατέστρεψαν το μνημείο των θυμάτων της Μαρφίν",
+      "url": "https://www.in.gr/2023/03/08/greece/katestrepsan-mnimeio-ton-thymaton-tis-marfin/",
       "published": ""
     },
     {
@@ -1977,20 +1312,6 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Μέσα σε ελάχιστα δευτερόλεπτα πυκνός μαύρος καπνός κάλυψε το ισόγειο της τράπεζας",
-      "url": "https://www.news.gr/ellada/article/4178966/neo-vinteo-ntokoumento-apo-ti-stigmi-tou-emprismou-tis-marfin-16-chronia-prin.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Μαρφίν",
-      "title": "Μήνυμα Βαρβιτσιώτη για τα 13 χρόνια από την τραγωδία στη Μαρφίν: «Δεν ξεχνάμε τα θύματα»",
-      "url": "https://www.news.gr/politikh/article/3267213/minima-varvitsioti-gia-ta-13-chronia-apo-tin-tragodia-sti-marfin-den-xechname-ta-thimata.html",
-      "published": ""
-    },
-    {
       "source": "zougla",
       "keyword": "Μαρφίν",
       "title": "Μήνυμα Δένδια για τα 13 χρόνια από την τραγωδία στη Μαρφίν",
@@ -2005,24 +1326,59 @@
       "published": ""
     },
     {
-      "source": "thepressproject",
+      "source": "in",
       "keyword": "Μαρφίν",
-      "title": "Μαρφίν: Κι όμως, ο εμπαιγμός των συγγενών των θυμάτων, συνεχίζεται!",
-      "url": "https://thepressproject.gr/marfin-ki-omos-o-ebaigmos-ton-syngenon-ton-thymaton-synechizetai/",
+      "title": "Μαρφίν: «Ανορθόδοξη η δίωξη, εξυπηρετεί πολιτική σκοπιμότητα» – Τι λέει η δικηγόρος των συλληφθέντων",
+      "url": "https://www.in.gr/2026/07/11/greece/marfin-anorthodoksi-i-dioksi-eypiretei-politiki-skopimotita-ti-leei-i-dikigoros-ton-syllifthenton/",
       "published": ""
     },
     {
-      "source": "thepressproject",
+      "source": "in",
       "keyword": "Μαρφίν",
-      "title": "Μαρφίν: Προθεσμία έλαβαν οι τρεις κατηγορούμενοι για τις απολογίες τους μετά την αναβάθμιση του κατηγορητηρίου – Καταστολή και κρότου λάμψης στους αλληλέγγυους",
-      "url": "https://thepressproject.gr/marfin-prothesmia-elavan-oi-treis-katigoroumenoi-gia-tis-apologies-tous-meta-tin-anavathmisi-tou-katigoritiriou-katastoli-kai-krotou-lampsis-stous-allilengyous/",
+      "title": "Μαρφίν: Για ανθρωποκτονία από πρόθεση κατά συρροή κατηγορούνται οι δύο συλληφθέντες – Την Τρίτη η απολογία τους",
+      "url": "https://www.in.gr/2026/07/10/greece/marfin-gia-anthropoktonia-apo-prothesi-kata-syrroi-katigorountai-oi-dyo-syllifthentes-tin-triti-i-apologia-tous/",
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Με αφορμή τη δημοσιοποίηση ονομάτων και φωτογραφιών που αφορούν την ίδια και πρόσωπα του περιβάλλοντος της",
-      "url": "https://www.news.gr/ellada/article/4178867/tin-paraviasi-ton-prosopikon-dedomenon-tis-46chronis-katigoroumenis-gia-tin-marfin-katangelli-o-dikigoros-tis.html",
+      "source": "in",
+      "keyword": "Μαρφίν",
+      "title": "Μαρφίν: Νέα ντοκουμέντα από τη στιγμή της φονικής εμπρηστικής επίθεσης με τους τρεις νεκρούς",
+      "url": "https://www.in.gr/2026/07/17/greece/marfin-nea-ntokoumenta-apo-ti-stigmi-tis-fonikis-empristikis-epithesis-me-tous-treis-nekrous/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Μαρφίν",
+      "title": "Μαρφίν: Οι φωτογραφίες διακοπών στο σπίτι γνωστού αντιεξουσιαστή που πρόδωσαν την παρέα των τριών κατηγορούμενων",
+      "url": "https://www.in.gr/2026/07/10/greece/marfin-oi-fotografies-diakopon-sto-spiti-gnostou-antieksousiasti-pou-prodosan-tin-parea-ton-trion-katigoroumenon/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Μαρφίν",
+      "title": "Μαρφίν: Ποιοι είναι οι τρεις που ταυτοποιήθηκαν για την εμπρηστική επίθεση",
+      "url": "https://www.in.gr/2026/07/11/greece/marfin-poioi-einai-oi-treis-pou-taytopoiithikan-gia-tin-empristiki-epithesi/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Μαρφίν",
+      "title": "Μαρφίν: Τα στοιχεία που οδήγησαν στις συλλήψεις – Μέσα από φωτογραφικό υλικό ταυτοποιήθηκαν οι κατηγορούμενοι",
+      "url": "https://www.in.gr/2026/07/10/greece/marfin-ta-stoixeia-pou-odigisan-stis-syllipseis-mesa-apo-fotografiko-yliko-taytopoiithikan-oi-katigoroumenoi/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Μαρφίν",
+      "title": "Μαρφίν: Την Τρίτη παρουσιάζεται η 46χρονη ενώπιον βρετανικού δικαστηρίου για το αίτημα έκδοσης στην Ελλάδα",
+      "url": "https://www.in.gr/2026/07/13/greece/marfin-tin-triti-parousiazetai-i-46xroni-enopion-vretanikou-dikastiriou-gia-to-aitima-ekdosis-stin-ellada/",
+      "published": ""
+    },
+    {
+      "source": "in",
+      "keyword": "Μαρφίν",
+      "title": "Μαρφίν: Τρία ακόμα άτομα ελέγχονται για συμμετοχή στην εμπρηστική επίθεση με τους τρεις νεκρούς εργαζόμενους",
+      "url": "https://www.in.gr/2026/07/11/greece/marfin-tria-akoma-atoma-elegxontai-gia-symmetoxi-stin-empristiki-epithesi-me-tous-treis-nekrous-ergazomenous/",
       "published": ""
     },
     {
@@ -2030,13 +1386,6 @@
       "keyword": "Marfin",
       "title": "Με υπόμνημα απολογήθηκε η 46χρονη για την υπόθεση της Marfin - Αρνείται τις κατηγορίες",
       "url": "https://www.newsit.gr/ellada/marfin-me-ypomnima-apologithike-i-46xroni-arneitai-tis-katigories/4748738/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Μαρφίν",
-      "title": "Μητσοτάκης: Να στηθεί μνημείο για τα θύματα της Μαρφίν",
-      "url": "https://www.news.gr/politikh/article/1080795/mitsotakis-na-stithi-mnimio-gia-ta-thimata-tis-marfin.html",
       "published": ""
     },
     {
@@ -2054,41 +1403,6 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Νέο βίντεο-ντοκουμέντο από τη στιγμή του εμπρησμού της Marfin 16 χρόνια πριν",
-      "url": "https://www.news.gr/ellada/article/4178966/neo-vinteo-ntokoumento-apo-ti-stigmi-tou-emprismou-tis-marfin-16-chronia-prin.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Οι κατηγορούμενοι θα δώσουν εξηγήσεις για τις νέες βαρύτατες κατηγορίες που αντιμετωπίζουν",
-      "url": "https://www.news.gr/ellada/article/4230652/marfin-nea-dioxi-se-varos-ton-katigoroumenon-pou-kalounte-se-simpliromatiki-apologia.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Οι πληροφορίες αναφέρουν πως η γυναίκα δηλώνει αθώα",
-      "url": "https://www.news.gr/ellada/article/4175266/sinelifthi-sti-vretania-i-46chroni-pou-katigorite-gia-ton-emprismo-sti-marfin.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Οι φωτογραφίες από διακοπές που άνοιξαν τον δρόμο για συλλήψεις",
-      "url": "https://www.news.gr/ellada/article/4174483/marfin-epistrefi-stin-ellada-i-46chroni-diloni-athoa-ke-theli-na-katathesi-stis-arches.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Οι φωτογραφίες-ντοκουμέντο που οδήγησαν στην «ταυτοποίηση» των σακιδίων των κατηγορουμένων για τον εμπρησμό της Marfin",
-      "url": "https://www.news.gr/ellada/article/4178822/i-fotografies-ntokoumento-pou-odigisan-stin-taftopiisi-ton-sakidion-ton-katigoroumenon-ston-emprismo-tis-marfin.html",
-      "published": ""
-    },
-    {
       "source": "newsit",
       "keyword": "Marfin",
       "title": "Παλαιότερα άρθρα",
@@ -2096,24 +1410,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Παράσταση υποστήριξης κατηγορίας υπέβαλλαν συγγενείς θύματος - Με ποιο σκεπτικό προφυλακίστηκαν οι δύο κατηγορούμενοι",
-      "url": "https://www.news.gr/ellada/article/4177801/marfin-sto-mikroskopio-to-anonimo-email.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "υπόθεση Marfin",
-      "title": "Παραιτήθηκε το δημόσιο από τις αναιρέσεις για την υπόθεση Marfin",
-      "url": "https://www.news.gr/ellada/article/2245490/paretithike-to-dimosio-apo-tis-aneresis-gia-tin-ipothesi-marfin.html",
-      "published": ""
-    },
-    {
       "source": "tanea",
-      "keyword": "Μαρφίν",
-      "title": "Πολιτική Κυριάκος Μητσοτάκης: Κοινό μέτωπο κατά της τρομοκρατίας - Καμία ανοχή στο casus belli Την καθιερωμένη εβδομαδιαία ανασκόπησή του δημοσίευσε ο πρωθυπουργός Κυριάκος Μητσοτάκης, κάνοντας εκτενή αναφορά στις πολιτικές και διεθνείς εξελίξεις των τελευταίων ημερών. Μεταξύ άλλων, στάθηκε στις συλλήψεις για την υπόθεση της Μαρφίν, στη δολοφονία της Βάγιας Νέστορα, στις αποφάσεις της Συνόδου του ΝΑΤΟ, στις εξελίξεις στη Μέση Ανατολή και τα μέτρα για τις τιμές των καυσίμων, […] 12/07/2026 10:13",
-      "url": "https://www.tanea.gr/2026/07/12/politics/kyriakos-mitsotakis-marfin-nato-kai-kaysima-sto-epikentro-tis-anaskopisis/",
+      "keyword": "Marfin",
+      "title": "Περισσότερα άρθρα",
+      "url": "https://www.tanea.gr/page/2/?s=Marfin",
       "published": ""
     },
     {
@@ -2145,38 +1445,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Προφυλακιστέοι οι δύο 42χρονοι για την φονική πυρκαγιά στην Marfin",
-      "url": "https://www.news.gr/ellada/article/4177007/propsilakizonte-i-dio-42chroni-gia-tin-foniki-pirkagia-sti-marfin.html",
-      "published": ""
-    },
-    {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "Πρόσωπα & Ιστορίες 9 Μιχάλης Χρυσοχοΐδης στα «ΝΕΑ»: Η υπόθεση της Marfin είναι «δεμένη» Ο υπουργός Προστασίας του Πολίτη ξεκαθαρίζει ότι η έρευνα για να αποδοθεί δικαιοσύνη δεν χρειάζεται κανένα μέιλ, τονίζει πως οι δολοφονίες δεν έχουν χρώματα, υποσημειώσεις και αστερίσκους Ελένη Ευαγγελοδήμου Πρώτη Δημοσιεύση: 18/07/2026 12:15",
-      "url": "https://www.tanea.gr/print/2026/07/18/people/i-ypothesi-tis-marfin-einai-demeni/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Ραγδαίες εξελίξεις: Συνελήφθη στη Βρετανία η 46χρονη που κατηγορείται για τον εμπρησμό στη Marfin",
-      "url": "https://www.news.gr/ellada/article/4175266/sinelifthi-sti-vretania-i-46chroni-pou-katigorite-gia-ton-emprismo-sti-marfin.html",
-      "published": ""
-    },
-    {
       "source": "in",
       "keyword": "Marfin",
       "title": "Σήμερα η απολογία των δύο εκ των τριών κατηγορουμένων για τον φονικό εμπρησμό στη Marfin",
       "url": "https://www.in.gr/2026/10/21/greece/ypothesi-marfin-simera-i-apologia-dyo-ek-ton-trion-katigoroumenon/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Σε λίγες ημέρες αναμένεται να φτάσει και στην Ελλάδα, από την Αγγλία, η 46χρονη",
-      "url": "https://www.news.gr/ellada/article/4177786/stis-filakes-nafpliou-ke-malandrinou-i-dio-42chroni-katigoroumeni-gia-ton-foniko-emprismo-stin-marfin.html",
       "published": ""
     },
     {
@@ -2191,13 +1463,6 @@
       "keyword": "Marfin",
       "title": "Σελίδα 33",
       "url": "https://www.newsit.gr/page/33/?s=Marfin",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Στέλεχος της ΝΔ κατά Καρυστιανού: «Για το Μάτι και τη Μαρφίν δε λέτε» – «Αισχρή επίθεση προς το πρόσωπό μας», απαντά",
-      "url": "https://thepressproject.gr/stelechos-tis-nd-kata-karystianou-gia-to-mati-kai-ti-marfin-de-lete-aischri-epithesi-pros-to-prosopo-mas-apanta/",
       "published": ""
     },
     {
@@ -2236,24 +1501,10 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Στις φυλακές Ναυπλίου και Μαλανδρίνου οι δύο 42χρονοι κατηγορούμενοι για τον φονικό εμπρησμό στην Marfin",
-      "url": "https://www.news.gr/ellada/article/4177786/stis-filakes-nafpliou-ke-malandrinou-i-dio-42chroni-katigoroumeni-gia-ton-foniko-emprismo-stin-marfin.html",
-      "published": ""
-    },
-    {
       "source": "in",
       "keyword": "Marfin",
       "title": "Στο Εφετείο έφτασε η 46χρονη που κατηγορείται για τον εμπρησμό της Marfin - Πέρασε τη νύχτα στη ΓΑΔΑ",
       "url": "https://www.in.gr/2026/08/07/greece/marfin-sto-efeteio-eftase-i-46xroni-perase-ti-nyxta-sti-gada/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Στο πλευρό τους, στα δικαστήρια της Ευελπίδων βρέθηκαν από νωρίς το πρωί δεκάδες αλληλέγγυοι",
-      "url": "https://www.news.gr/ellada/article/4177007/propsilakizonte-i-dio-42chroni-gia-tin-foniki-pirkagia-sti-marfin.html",
       "published": ""
     },
     {
@@ -2285,34 +1536,6 @@
       "published": ""
     },
     {
-      "source": "tanea",
-      "keyword": "Marfin",
-      "title": "ΣΧΕΤΙΚΟΤΗΤΑ",
-      "url": "https://www.tanea.gr/search/Marfin/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Την παραβίαση των προσωπικών δεδομένων της 46χρονης κατηγορούμενης για τον εμπρησμό Marfin καταγγέλλει ο δικηγόρος της",
-      "url": "https://www.news.gr/ellada/article/4178867/tin-paraviasi-ton-prosopikon-dedomenon-tis-46chronis-katigoroumenis-gia-tin-marfin-katangelli-o-dikigoros-tis.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Τι αναφέρει η έκθεση της Διεύθυνσης Εγκληματολογικών Ερευνών",
-      "url": "https://www.news.gr/ellada/article/4178822/i-fotografies-ntokoumento-pou-odigisan-stin-taftopiisi-ton-sakidion-ton-katigoroumenon-ston-emprismo-tis-marfin.html",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Το υπουργείο απαντά – επιβεβαιώνοντας τον εμπαιγμό των συγγενών θυμάτων της Μαρφίν",
-      "url": "https://thepressproject.gr/to-ypourgeio-apanta-epivevaionontas-ton-ebaigmo-ton-syngenon-thymaton-tis-marfin/",
-      "published": ""
-    },
-    {
       "source": "enikos",
       "keyword": "υπόθεση Marfin",
       "title": "Υπόθεση Marfin: H ΕΛ.ΑΣ. έχει “κλειδώσει” 4 νέα άτομα για τον εμπρησμό",
@@ -2324,6 +1547,13 @@
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: «Eπικίνδυνη και προσηλωμένη» – Το σκεπτικό πίσω από την προφυλάκιση της 46χρονης",
       "url": "https://www.naftemporiki.gr/society/2149261/ypothesi-marfin-epikindyni-kai-prosilomeni-to-skeptiko-piso-apo-tin-profylakisi-tis-46chronis/",
+      "published": ""
+    },
+    {
+      "source": "tanea",
+      "keyword": "υπόθεση Marfin",
+      "title": "Υπόθεση Marfin: «Να παραμείνει στη φυλακή η 46χρονη» εισηγείται ο εισαγγελέας – Τι υποστηρίζει ο δικηγόρος της",
+      "url": "https://www.tanea.gr/2026/09/04/greece/ypothesi-marfin-na-parameinei-sti-fylaki-i-46xroni-eisigeitai-o-eisaggeleas-ti-ypostirizei-o-dikigoros-tis/",
       "published": ""
     },
     {
@@ -2345,6 +1575,13 @@
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Έφτασε στην Ελλάδα η 46χρονη κατηγορούμενη Ελένη Αργυρίου",
       "url": "https://www.zougla.gr/greece/ypothesi-marfin-efthase-stin-ellada-i-46chroni-katigoroumeni-eleni-argyriou/",
+      "published": ""
+    },
+    {
+      "source": "tanea",
+      "keyword": "Marfin",
+      "title": "Υπόθεση Marfin: Αναβαθμίστηκε το κατηγορητήριο για τους τρεις προφυλακισμένους",
+      "url": "https://www.tanea.gr/2026/10/13/greece/ypothesi-marfin-anavathmistike-to-katigoritirio-gia-tous-treis-profylakismenous/",
       "published": ""
     },
     {
@@ -2411,13 +1648,6 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Υπόθεση Marfin: Επιστρέφει στην Ελλάδα η 46χρονη κατηγορούμενη για τον εμπρησμό που είχε συλληφθεί στο Λονδίνο",
-      "url": "https://www.news.gr/ellada/article/4192990/ipothesi-marfin-epistrefi-stin-ellada-i-46chroni-katigoroumeni-gia-ton-emprismo-pou-iche-sillifthi-sto-londino.html",
-      "published": ""
-    },
-    {
       "source": "naftemporiki",
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Επιστρέφουν στη φυλακή οι δύο κατηγορούμενοι μετά τις συμπληρωματικές απολογίες",
@@ -2464,6 +1694,13 @@
       "keyword": "υπόθεση Marfin",
       "title": "Υπόθεση Marfin: Νομικά μέτρα από την 46χρονη για διαρροή στοιχείων",
       "url": "https://www.zougla.gr/greece/ypothesi-marfin-nomika-metra-apo-tin-46chroni-gia-diarroi-stoicheion/",
+      "published": ""
+    },
+    {
+      "source": "tanea",
+      "keyword": "υπόθεση Marfin",
+      "title": "Υπόθεση Marfin: Οι φωτογραφίες που οδήγησαν στην ταυτοποίηση των υπόπτων – Το σακίδιο, το κόκκινο μαντήλι και το ανοιχτόχρωμο καπέλο",
+      "url": "https://www.tanea.gr/2026/07/13/greece/ypothesi-marfin-oi-fotografies-poy-prodosan-toys-3-syllifthentes-to-sakidio-kai-to-kokkino/",
       "published": ""
     },
     {
@@ -2523,13 +1760,6 @@
       "published": ""
     },
     {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Υπόθεση Marfin: Σήμερα απολογούνται δύο εκ των τριών κατηγορουμένων",
-      "url": "https://www.news.gr/ellada/article/4236965/soros-andra-entopistike-sti-thalassia-periochi-tou-ormou-vathi-sti-sifno.html",
-      "published": ""
-    },
-    {
       "source": "zougla",
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Σήμερα στην Αθήνα με αστυνομική συνοδεία η 46χρονη που εμπλέκεται στον εμπρησμό",
@@ -2541,13 +1771,6 @@
       "keyword": "Marfin",
       "title": "Υπόθεση Marfin: Στη Βρετανία το «ελληνικό FBI» για την έκδοση της 46χρονης",
       "url": "https://www.zougla.gr/greece/ypothesi-marfin-sti-vretania-to-elliniko-fbi-gia-tin-ekdosi-tis-46chronis/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Υπόθεση Marfin: Στη φυλακή επέστρεψαν μετά τις συμπληρωματικές απολογίες τους δύο κατηγορούμενοι",
-      "url": "https://www.news.gr/ellada/article/4237387/ipothesi-marfin-sti-filaki-epestrepsan-meta-tis-simpliromatikes-apologies-tous-dio-katigoroumeni.html",
       "published": ""
     },
     {
@@ -2607,20 +1830,6 @@
       "published": ""
     },
     {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "ΦΑΡΜΑ ΤΩΝ ΖΩΩΝ – 10/7/2026: Α.Τ Ομόνοιας, Μαρφίν, Άργος, Ακρίβεια, ΣΥΡΙΖΑ",
-      "url": "https://thepressproject.gr/farma-ton-zoon-10-7-2026-a-t-omonoias-marfin-argos-akriveia-syriza/",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "ΦΑΡΜΑ ΤΩΝ ΖΩΩΝ – 13/10/2026: Eurostat, Β.Μάγγος, Μαρφίν, Γκίλφοϊλ, Μότορ Όιλ, Στέγαση",
-      "url": "https://thepressproject.gr/farma-ton-zoon-13-10-2026-eurostat-v-mangos-marfin-gkilfoil-motor-oil-stegasi/",
-      "published": ""
-    },
-    {
       "source": "in",
       "keyword": "εμπρησμός Marfin",
       "title": "Φονικός εμπρησμός Marfin: To ατιμώρητο έγκλημα",
@@ -2628,24 +1837,17 @@
       "published": ""
     },
     {
+      "source": "tanea",
+      "keyword": "εμπρησμός Marfin",
+      "title": "Φονικός εμπρησμός Marfin: To ατιμώρητο έγκλημα",
+      "url": "https://www.tanea.gr/2023/05/05/istoriko-arxeio/fonikos-emprismos-marfin-to-atimorito-egklima/",
+      "published": ""
+    },
+    {
       "source": "thepressproject",
       "keyword": "υπόθεση Marfin",
       "title": "Χρ. Ράμμος για την υπόθεση Marfin: «Να τηρηθεί το τεκμήριο αθωότητας»",
       "url": "https://thepressproject.gr/chr-rammos-gia-tin-ypothesi-marfin-na-tirithei-to-tekmirio-athootitas/",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Χρυσοχοΐδης για Marfin: Το υλικό υπήρχε αλλά δεν είχε αξιοποιηθεί όπως έπρεπε, μετά από κάποια λάθη που είχαν γίνει στο παρελθόν",
-      "url": "https://www.news.gr/politikh/article/4176569/chrisocho%ce%90dis-gia-marfin-to-iliko-ipirche-alla-den-iche-axiopiithi-opos-eprepe.html",
-      "published": ""
-    },
-    {
-      "source": "newsgr",
-      "keyword": "Marfin",
-      "title": "Χρυσοχοΐδης: Η Αστυνομία έχει αποστολή να συλλαμβάνει δολοφόνους, όχι να σκοτώνει παιδιά – Τι είπε για τις συλλήψεις για τη Marfin",
-      "url": "https://www.news.gr/politikh/article/4175450/chrisocho%ce%90dis-i-astinomia-echi-apostoli-na-sillamvani-dolofonous-ochi-na-skotoni-pedia-ti-ipe-gia-tis-sillipsis-gia-ti-marfin.html",
       "published": ""
     },
     {
@@ -2660,13 +1862,6 @@
       "keyword": "Marfin",
       "title": "Χρυσοχοϊδης: «Η υπόθεση της Marfin είναι δέμένη»",
       "url": "https://debater.gr/politiki/chrysochoidis-i-ypothesi-tis-marfin-einai-demeni/",
-      "published": ""
-    },
-    {
-      "source": "thepressproject",
-      "keyword": "Μαρφίν",
-      "title": "Χυδαία επίθεση στελέχους της ΝΔ στη Μαρία Καρυστιανού: «Τι έχετε κάνει και πει για τη μάνα του Αξαρλιάν, τα θύματα της Μαρφίν και του Ματιού;»",
-      "url": "https://thepressproject.gr/chydaia-epithesi-stelechous-tis-nd-sti-maria-karystianou-ti-echete-kanei-kai-pei-gia-ti-mana-tou-axarlian-ta-thymata-tis-marfin-kai-tou-matiou/",
       "published": ""
     },
     {
